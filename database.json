@@ -1,0 +1,362 @@
+[
+	{
+        "id": "ALADDIN",
+        "title": "Aladdin - Nasira's Revenge",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+    {
+        "id": "ALUNDRA",
+        "title": "Alundra",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "BREATHIII",
+        "title": "Breath of Fire III",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "BREATHIV",
+        "title": "Breath of Fire IV",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "CHTRIGGER",
+        "title": "Chrono Trigger",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "CLADUNX2",
+        "title": "ClaDun x2",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+    {
+        "id": "DARKSTALKERS",
+        "title": "Darkstalkers Chronicle",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "DIGIMONCARD",
+        "title": "Digimon Digital Card Battle",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "DIGIMONRUMBLE",
+        "title": "Digimon Rumble Arena",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "DIGIMONW",
+        "title": "Digimon World",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "DIGIMONW2",
+        "title": "Digimon World 2",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+    {
+        "id": "DISGAEA",
+        "title": "Disgaea",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "DISGAEA2",
+        "title": "Disgaea 2",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "DISSIDIA",
+        "title": "Dissidia Final Fantasy",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "DISSIDIA012",
+        "title": "Dissidia Final Fantasy - Duodecim 012",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "FFI",
+        "title": "Final Fantasy I",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+    {
+        "id": "FFII",
+        "title": "Final Fantasy II",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "FFIII",
+        "title": "Final Fantasy III",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "FFIV",
+        "title": "Final Fantasy IV",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "FFVI",
+        "title": "Final Fantasy VI",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "FFVII",
+        "title": "Final Fantasy VII",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+    {
+        "id": "FFVIII",
+        "title": "Final Fantasy VIII",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "FFIX",
+        "title": "Final Fantasy IX",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "FFTACTICS",
+        "title": "Final Fantasy Tactics - War of The Lions",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "JEANNEARC",
+        "title": "Jeanne d'Arc",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "KLONOADOOR",
+        "title": "Klonoa: Door to Phantomile",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },	
+	{
+        "id": "KNIGHTNIGHT",
+        "title": "Knights in the Nightmare",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "LAPUCELLE",
+        "title": "La Pucelle",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "LEGACYKAIN",
+        "title": "Legacy of Kain - Soul Reaver",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },	
+	{
+        "id": "LEGDRAGOON",
+        "title": "Legend of Dragoon",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "LEGENDMANA",
+        "title": "Legend of Mana",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "MAKAIKINGDOM",
+        "title": "Makai Kingdom",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },	
+	{
+        "id": "MARVELCAPCOM",
+        "title": "Marvel vs. Capcom",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "MEDIEVIL",
+        "title": "Medievil",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "METALSLUGANTH",
+        "title": "Metal SLug Anthology",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },	
+	{
+        "id": "MH3ERDP",
+        "title": "Monster Hunter 3rd Portable",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "MHFUNITE",
+        "title": "Monster Hunter Freedom Unite",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "MK4",
+        "title": "Mortal Kombat 4",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },	
+	{
+        "id": "MKTRILOGY",
+        "title": "Mortal Kombat Trilogy",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "MKUNCHAINED",
+        "title": "Mortal Kombat Unchained",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "NARUTOSHIPPUDEN",
+        "title": "Naruto Shippuden Ultimate Ninja Impact",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },	
+	{
+        "id": "PSP2",
+        "title": "Phantasy Star Portable 2",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "PHANTOMBRAVE",
+        "title": "Phantom Brave - The Hermuda Triangle",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "POWERSTONECOL",
+        "title": "Power Stone Collection",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },	
+	{
+        "id": "PRINNY",
+        "title": "Prinny",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "PRINNY2",
+        "title": "Prinny 2",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "RAGNAROKT",
+        "title": "Ragnarok Tactics",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "TACTICSOGRE",
+        "title": "Tactics Ogre",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },	
+	{
+        "id": "VAGRANT",
+        "title": "Vagrant Story",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "XENOGEARS",
+        "title": "Xenogears",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "YGGDRA",
+        "title": "Yggdra Union",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },	
+	{
+        "id": "YSSEVEN",
+        "title": "YS Seven",
+        "version": "1.00",
+        "author": "Quasinconsistent"
+    },
+	{
+        "id": "CASTLESOTN",
+        "title": "Castlevania: Symphony of the Night",
+        "version": "1.00",
+        "author": "gdljjrod"
+    },
+	{
+        "id": "FFCCORE",
+        "title": "Crisis Core: Final Fantasy VII",
+        "version": "1.00",
+        "author": "gdljjrod"
+    },
+	{
+        "id": "FFTYPE0",
+        "title": "Final Fantasy Type-0",
+        "version": "1.00",
+        "author": "gdljjrod"
+    },
+	{
+        "id": "FFVII_2",
+        "title": "Final Fantasy VII",
+        "version": "1.00",
+        "author": "gdljjrod"
+    },	
+	{
+        "id": "KHBBSFMIX",
+        "title": "Kingdom Hearts Birth by Sleep Final Mix",
+        "version": "1.00",
+        "author": "gdljjrod"
+    },
+	{
+        "id": "P3P",
+        "title": "Persona Portable 3",
+        "version": "1.00",
+        "author": "gdljjrod"
+    },
+	{
+        "id": "P3P_2",
+        "title": "Persona Portable 3",
+        "version": "1.00",
+        "author": "gdljjrod"
+    },
+	{
+        "id": "SH1",
+        "title": "Silent Hill 1",
+        "version": "1.00",
+        "author": "gdljjrod"
+    }
+]
