@@ -358,5 +358,17 @@
         "title": "Silent Hill 1",
         "version": "1.00",
         "author": "gdljjrod"
+    },
+		{
+        "id": "ALONEDARK",
+        "title": "Alone in the Dark",
+        "version": "1.00",
+        "author": "Jeffry Avila"
+    },
+		{
+        "id": "DINOCRISIS1",
+        "title": "Dino Crisis 1",
+        "version": "1.00",
+        "author": "gdljjrod"
     }
 ]
