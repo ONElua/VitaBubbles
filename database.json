@@ -359,16 +359,100 @@
         "version": "1.00",
         "author": "gdljjrod"
     },
-		{
+	{
+        "id": "DINOCRISIS1",
+        "title": "Dino Crisis 1",
+        "version": "1.00",
+        "author": "gdljjrod"
+    },
+	{
         "id": "ALONEDARK",
         "title": "Alone in the Dark",
         "version": "1.00",
         "author": "Jeffry Avila"
     },
-		{
-        "id": "DINOCRISIS1",
-        "title": "Dino Crisis 1",
+	{
+        "id": "CRASHB",
+        "title": "Crash Bandicoot",
         "version": "1.00",
-        "author": "gdljjrod"
+        "author": "Jeffry Avila"
+    },	
+	{
+        "id": "CRASHB2",
+        "title": "Crash Bandicoot 2",
+        "version": "1.00",
+        "author": "Jeffry Avila"
+    },
+	{
+        "id": "CRASHB3",
+        "title": "Crash Bandicoot 3",
+        "version": "1.00",
+        "author": "Jeffry Avila"
+    },
+	{
+        "id": "CRASHTEAMR",
+        "title": "Crash Team Rancing",
+        "version": "1.00",
+        "author": "Jeffry Avila"
+    },
+	{
+        "id": "CREATURES",
+        "title": "Creatures",
+        "version": "1.00",
+        "author": "Jeffry Avila"
+    },
+	{
+        "id": "CREATURES2",
+        "title": "Creatures II",
+        "version": "1.00",
+        "author": "Jeffry Avila"
+    },
+	{
+        "id": "FEAREFFECT",
+        "title": "Fear Effect",
+        "version": "1.00",
+        "author": "Jeffry Avila"
+    },
+	{
+        "id": "FEAREFFECT2",
+        "title": "Fear Effect 2",
+        "version": "1.00",
+        "author": "Jeffry Avila"
+    },	
+	{
+        "id": "GALERIANS",
+        "title": "Galerians",
+        "version": "1.00",
+        "author": "Jeffry Avila"
+    },
+	{
+        "id": "MARTIANGUNIF",
+        "title": "Martian Gothic Unification",
+        "version": "1.00",
+        "author": "Jeffry Avila"
+    },		
+	{
+        "id": "RE2",
+        "title": "Resident Evil 2",
+        "version": "1.00",
+        "author": "Jeffry Avila"
+    },	
+	{
+        "id": "PEVEI",
+        "title": "Parasit Eve I",
+        "version": "1.00",
+        "author": "Jeffry Avila"
+    },
+	{
+        "id": "SOULREAVER",
+        "title": "Legacy of Kain - Soul Reaver",
+        "version": "1.00",
+        "author": "Jeffry Avila"
+    },
+	{
+        "id": "STARWARSREBELII",
+        "title": "Star Wars Rebel Assault II",
+        "version": "1.00",
+        "author": "Jeffry Avila"
     }
 ]
