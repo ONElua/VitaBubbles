@@ -30,6 +30,7 @@ Onelua Team should not be held responsible for the images shared un this repo, s
 
 ## CREDITS ##
 Thanks to Quasinconsistent for sharing his resources (images).<br>
+Thanks to Jeffry Avila for sharing his resources (images).<br>
 
 ## Donation ##
 In case you want to support the work of the team on the vita, you can always donate for some coffee. Any amount is highly appreciated:
