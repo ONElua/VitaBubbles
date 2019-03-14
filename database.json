@@ -460,5 +460,47 @@
         "title": "GTA Vice City Stories",
         "version": "1.00",
         "author": "Samir2298"
+    },
+	{
+        "id": "PEACEWALKER",
+        "title": "Metal Gear Peace Walker",
+        "version": "1.00",
+        "author": "libardomm"
+    },
+	{
+        "id": "PORTABLEOPS",
+        "title": "Metal Gear Solid Portable OPS",
+        "version": "1.00",
+        "author": "libardomm"
+    },
+	{
+        "id": "MGSTACTICAL",
+        "title": "Metal Gear Solid Tactical Espionage",
+        "version": "1.00",
+        "author": "libardomm"
+    },
+	{
+        "id": "GBA",
+        "title": "Emulator GameBoy Advance",
+        "version": "1.00",
+        "author": "libardomm"
+    },
+	{
+        "id": "FFTACTICS2",
+        "title": "Final Fantasy Tactics - War of The Lions",
+        "version": "1.00",
+        "author": "libardomm"
+    },
+	{
+        "id": "CHRONOTRIGGER",
+        "title": "Chrono Trigger",
+        "version": "1.00",
+        "author": "libardomm"
+    },
+	{
+        "id": "PERSONA3",
+        "title": "Persona Portable 3",
+        "version": "1.00",
+        "author": "libardomm"
     }
 ]
