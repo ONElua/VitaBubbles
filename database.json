@@ -502,5 +502,119 @@
         "title": "Persona Portable 3",
         "version": "1.00",
         "author": "libardomm"
-    }
+    },
+	{
+        "id": "LITTLERALPH",
+        "title": "Adventures of Little Ralph",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "LOMAX",
+        "title": "Adventures of Lomax",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "BLASTO",
+        "title": "Blasto",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "BLOODLEGACYKAIN",
+        "title": "Blood Omen - Legacy of Kain",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "BLOODYROAR2",
+        "title": "Bloody Roar 2",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "BRAVEFENCER",
+        "title": "Brave Fencer Musashi",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "BREATHFIREIII2",
+        "title": "Breath of Fire III",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "BREATHFIREIV2",
+        "title": "Breath of Fire IV",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "BUSHIDO",
+        "title": "Bushido Blade",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "BUSTMOVE4",
+        "title": "Bust A Move 4",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "CASTLECHRONICLES",
+        "title": "Castlevania Chronicles",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "CASTLESOTN2",
+        "title": "Castlevania: Symphony of the Night",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "CHOANIKI",
+        "title": "Cho Aniki",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "CHRONOCROSS",
+        "title": "Chrono Cross",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "COLONYWARS",
+        "title": "Colony Wars",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },	
+	{
+        "id": "CRASHBANDICOOT",
+        "title": "Crash Bandicoot",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "DESTREGA",
+        "title": "Destrega",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "DINOCRISISS",
+        "title": "Dino Crisis",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "ECHONIGHT2",
+        "title": "Echo Night 2",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    }	
 ]
