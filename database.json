@@ -616,5 +616,101 @@
         "title": "Echo Night 2",
         "version": "1.00",
         "author": "Ultrameyda"
-    }	
+    },
+	{
+        "id": "EINHANDER",
+        "title": "Einhander",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "FADETOBLACK",
+        "title": "Fade to Black",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "FANTNIGHTSDREAM",
+        "title": "Fantasic Nights Dreams Cotton",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },	
+	{
+        "id": "FINALFANTASYIX",
+        "title": "Final Fantasy IX",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "FINALFANTASYVII",
+        "title": "Final Fantasy VII",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "FINALFANTASYVIII",
+        "title": "Final Fantasy VIII",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "FISTNORTHSTAR",
+        "title": "Fist of the North Star",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "FRONTMISSION3",
+        "title": "Front Mission 3",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "GDARIUS",
+        "title": "G-Darius",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "GRANDIA",
+        "title": "Grandia",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },	
+	{
+        "id": "GRANTSTREAM",
+        "title": "Granstream Saga",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "HARMFULPARK",
+        "title": "Harmful Park",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "HEARTDARKNESS",
+        "title": "Heart of Darkness",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "HELLNIGHT",
+        "title": "Hell Night",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "INCRECRISIS",
+        "title": "Incredible Crisis",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    },
+	{
+        "id": "ISSECTION",
+        "title": "IS - Internal Section",
+        "version": "1.00",
+        "author": "Ultrameyda"
+    }
 ]
