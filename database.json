@@ -708,15 +708,51 @@
         "author": "Ultrameyda"
     },
 	{
-        "id": "FF7CLASSIC",
-        "title": "FF7 Classic",
-        "version": "1.00",
-        "author": "Belickade"
-    },
-	{
         "id": "ISSECTION",
         "title": "IS - Internal Section",
         "version": "1.00",
         "author": "Ultrameyda"
+    },
+	{
+        "id": "FF5PS1RETRO",
+        "title": "Final Fantasy V PS1 Retro",
+        "version": "1.00",
+        "author": "Belickade"
+    },
+	{
+        "id": "FF6PS1RETRO",
+        "title": "Final Fantasy VI PS1 Retro",
+        "version": "1.00",
+        "author": "Belickade"
+    },
+	{
+        "id": "FF7PS1RETRO",
+        "title": "Final Fantasy VII PS1 Retro",
+        "version": "1.00",
+        "author": "Belickade"
+    },
+	{
+        "id": "FF8PS1RETRO",
+        "title": "Final Fantasy VIII PS1 Retro",
+        "version": "1.00",
+        "author": "Belickade"
+    },
+	{
+        "id": "FF9PS1RETRO",
+        "title": "Final Fantasy IX PS1 Retro",
+        "version": "1.00",
+        "author": "Belickade"
+    },
+	{
+        "id": "FFORIGINSPS1RETRO",
+        "title": "Final Fantasy Origins PS1 Retro",
+        "version": "1.00",
+        "author": "Belickade"
+    },
+	{
+        "id": "FFTACTICSPS1RETRO",
+        "title": "Final Fantasy Tactics PS1 Retro",
+        "version": "1.00",
+        "author": "Belickade"
     }
 ]
