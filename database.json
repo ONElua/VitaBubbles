@@ -756,8 +756,125 @@
         "author": "Belickade"
     },
 	{
-        "id": "BLOODYPS1RETRO",
-        "title": "Bloody Roar PS1 Retro",
+        "id": "2XEXTREMEPS1RETRO",
+        "title": "2X Extreme PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "BLOODKAINPS1RETRO",
+        "title": "Blood Omen Legacy of Kain PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "ALUNDRAPS1RETRO",
+        "title": "Alundra PS1 Retro",
+        "version": "1.00",
+        "author": "Belickade"
+    },
+	{
+        "id": "BILLIARDSPS1RETRO",
+        "title": "Backstreet Billiards PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "BOMBRACEPS1RETRO",
+        "title": "Bomberman Fantasy Race PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "BOMBPARTYPS1RETRO",
+        "title": "Bomberman Party Edition PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "ARCLADPS1RETRO",
+        "title": "Arc the Lad PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "ARCLAD2PS1RETRO",
+        "title": "Arc the Lad 2 PS1 Retro",
+        "version": "1.00",
+        "author": "Belickade"
+    },
+	{
+        "id": "ARCLAD3PS1RETRO",
+        "title": "Arc the Lad 3 PS1 Retro",
+        "version": "1.00",
+        "author": "Belickade"
+    },
+	{
+        "id": "ARCTOURPS1RETRO",
+        "title": "Arc Arena Monster Tournament PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "BOXINGPS1RETRO",
+        "title": "Boxing PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "BREATHFIRE4PS1RETRO",
+        "title": "Breath of Fire IV PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "BHUNTERPS1RETRO",
+        "title": "Battle Hunter PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+
+	{
+        "id": "ALLDBALLPS1RETRO",
+        "title": "AllStar Slammin DBall PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "ACESAIRPS1RETRO",
+        "title": "Aces of the Air PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "ARMCOREPS1RETRO",
+        "title": "Armored Core PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "BLOODROAR2PS1RETRO",
+        "title": "Bloody Roar 2 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "BOWLINGPS1RETRO",
+        "title": "Bowling PS1 Retro",
         "version": "1.00",
 		"manual": "true",
         "author": "Belickade"
