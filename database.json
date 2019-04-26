@@ -754,5 +754,12 @@
         "title": "Final Fantasy Tactics PS1 Retro",
         "version": "1.00",
         "author": "Belickade"
+    },
+	{
+        "id": "BLOODYPS1RETRO",
+        "title": "Bloody Roar PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
     }
 ]
