@@ -843,7 +843,6 @@
 		"manual": "true",
         "author": "Belickade"
     },
-
 	{
         "id": "ALLDBALLPS1RETRO",
         "title": "AllStar Slammin DBall PS1 Retro",
@@ -868,6 +867,62 @@
 	{
         "id": "BLOODROAR2PS1RETRO",
         "title": "Bloody Roar 2 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "CASTLESOTNPS1RETRO",
+        "title": "Castlevania - SotN PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "CASTLECHROPS1RETRO",
+        "title": "Castlevania Chronicles PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "CHRONOCROSSPS1RETRO",
+        "title": "Chrono Cross PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "CHRONOTRIPS1RETRO",
+        "title": "Chrono Trigger PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "CRASHBANDWARPS1RETRO",
+        "title": "Crash Bandicoot Warped PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "CRASHBAND1PS1RETRO",
+        "title": "Crash Bandicoot 1 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "CRASHBAND2PS1RETRO",
+        "title": "Crash Bandicoot 2 Cortex PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "CRASHBANDTRPS1RETRO",
+        "title": "Crash Team Racing PS1 Retro",
         "version": "1.00",
 		"manual": "true",
         "author": "Belickade"
