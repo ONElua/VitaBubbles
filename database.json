@@ -962,6 +962,62 @@
         "author": "Belickade"
     },
 	{
+        "id": "LEGACYKAINPS1RETRO",
+        "title": "Legacy of Kain Soul Reaver PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "LEGDRAGOONPS1RETRO",
+        "title": "Legend of Dragoon PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "LEGMANAPS1RETRO",
+        "title": "Legend of Mana PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "MEGAMAN8PS1RETRO",
+        "title": "Mega Man 8 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "MLEGENDS1PS1RETRO",
+        "title": "Mega Man Legends 1 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "MLEGENDS2PS1RETRO",
+        "title": "Mega Man Legends 2 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "MEGAMANX4PS1RETRO",
+        "title": "Mega Man X4 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "MEGAMANX5PS1RETRO",
+        "title": "Mega Man X5 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
         "id": "BOWLINGPS1RETRO",
         "title": "Bowling PS1 Retro",
         "version": "1.00",
