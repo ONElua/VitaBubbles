@@ -928,6 +928,40 @@
         "author": "Belickade"
     },
 	{
+        "id": "DINOCRISIS1PS1RETRO",
+        "title": "Dino Crisis 1 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "DINOCRISIS2PS1RETRO",
+        "title": "Dino Crisis 2 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "GRANDIAPS1RETRO",
+        "title": "Grandia PS1 Retro",
+        "version": "1.00",
+        "author": "Belickade"
+    },
+	{
+        "id": "HARVESTNATUREPS1RETRO",
+        "title": "Harvest Moon Back to Nature PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "KLONOAPS1RETRO",
+        "title": "Klonoa Door to Phantomile PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
         "id": "BOWLINGPS1RETRO",
         "title": "Bowling PS1 Retro",
         "version": "1.00",
