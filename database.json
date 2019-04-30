@@ -1079,6 +1079,88 @@
 		"manual": "true",
         "author": "Belickade"
     },
+
+	{
+        "id": "P2ETERNALPS1RETRO",
+        "title": "Persona 2 Eternal Punishment PS1 Retro",
+        "version": "1.00",
+        "author": "Belickade"
+    },
+	{
+        "id": "RAYMANPS1RETRO",
+        "title": "Rayman PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "RAYMAN2PS1RETRO",
+        "title": "Rayman 2 The Great Escape PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "SPYRO1PS1RETRO",
+        "title": "Spyro the Dragon 1 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "SPYRO2PS1RETRO",
+        "title": "Spyro the Dragon 2 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "SPYRO3PS1RETRO",
+        "title": "Spyro the Dragon 3 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "SUIKODEN1PS1RETRO",
+        "title": "Suikoden 1 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "SUIKODEN2PS1RETRO",
+        "title": "Spyro the Dragon 2 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "VAGRANTPS1RETRO",
+        "title": "Vagrant Story PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "WILDARMS1PS1RETRO",
+        "title": "WildArms 1 PS1 Retro",
+        "version": "1.00",
+        "author": "Belickade"
+    },
+	{
+        "id": "WILDARMS2PS1RETRO",
+        "title": "WildArms 2 PS1 Retro",
+        "version": "1.00",
+        "author": "Belickade"
+    },
+	{
+        "id": "XENOGEARSPS1RETRO",
+        "title": "Xenogears PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
 	{
         "id": "BOWLINGPS1RETRO",
         "title": "Bowling PS1 Retro",
