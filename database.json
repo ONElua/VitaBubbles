@@ -1018,6 +1018,68 @@
         "author": "Belickade"
     },
 	{
+        "id": "RE3NEMESISPS1RETRO",
+        "title": "Resident Evil 3 Nemesis PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "RE2DUALSHOCKPS1RETRO",
+        "title": "RE Evil 2 Dual Shock Version PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "REDIRECTORCUTPS1RETRO",
+        "title": "Resident Evil Directors Cut PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "SHILLPS1RETRO",
+        "title": "Silent Hill 1 Nemesis PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "METALGSOLIDPS1RETRO",
+        "title": "Metal Gear Solid PS1 Retro",
+        "version": "1.00",
+        "author": "Belickade"
+    },
+	{
+        "id": "METALGVRPS1RETRO",
+        "title": "Metal Gear Solid VR Missions PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "MSLUGXPS1RETRO",
+        "title": "Metal Slug X PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "PEVE1PS1RETRO",
+        "title": "Parasite Eve 1 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "PEVE2PS1RETRO",
+        "title": "Parasite Eve 2 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
         "id": "BOWLINGPS1RETRO",
         "title": "Bowling PS1 Retro",
         "version": "1.00",
