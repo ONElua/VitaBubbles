@@ -1162,6 +1162,20 @@
         "author": "Belickade"
     },
 	{
+        "id": "BLOODYPS1RETRO",
+        "title": "Bloody Roar 1 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
+        "id": "BUSTMOVE4PS1RETRO",
+        "title": "Bust A Move 4 PS1 Retro",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Belickade"
+    },
+	{
         "id": "BOWLINGPS1RETRO",
         "title": "Bowling PS1 Retro",
         "version": "1.00",
