@@ -17,13 +17,14 @@ If you want to share your resources and upload them so anyone can be able to use
 **NOTE:**
 1. Images have to be inside a folder inside a ZIP file.
 2. The name of the folder inside your ZIP and the ZIP file must match the ID of your upload and name of the preview image.
-3. For the preview, you can upload an image named ID.png (together with the ZIP file), up to 256*256, using icon0.png for this is highly recomended.
+3. For the preview, you can upload an image named ID.png (together with the ZIP file), up to 256*256 or 128*128, using icon0.png for this is highly recomended.
 4. The resources in the folder inside the ZIP file must be in the following sizes :
 
 - icon0.png			128x128<br>
 - startup.png		        280x158 (max)<br>   
 - pic0.png			960x544<br>   
 - bg0.png			840x500<br>
+- Manual			(Folder) Inside 001.png, 002.png (960*544) <br>
 
 # DISCLAIMER #
 Onelua Team should not be held responsible for the images shared un this repo, since the rights for each image belongs to the owner/creator.<br>
