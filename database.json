@@ -1205,5 +1205,23 @@
         "title": "WipEout Pure",
         "version": "1.00",
         "author": "Takuhii"
+    },
+    {
+        "id": "WIPEOUT",
+        "title": "Wipeout",
+        "version": "1.00",
+        "author": "Takuhii"
+    },
+    {
+        "id": "LOCOROCO2",
+        "title": "LocoRoco 2",
+        "version": "1.00",
+        "author": "Takuhii"
+    },
+    {
+        "id": "LOCOROCOMIDNIGHTCARNIVAL",
+        "title": "LocoRoco Midnight Carnival",
+        "version": "1.00",
+        "author": "Takuhii"
     }
 ]
