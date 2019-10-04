@@ -1182,15 +1182,15 @@
 		"manual": "true",
         "author": "Belickade"
     },
-	{
+    {
         "id": "HOKUTONOKENRAOGAIDENTENNOHAO",
         "title": "Hokuto no Ken: Raō Gaiden: Ten no Haō",
         "version": "1.00",
         "author": "Takuhii"
     },
-	{
+    {
         "id": "ASSASSINSCREEDBLOODLINES",
-        "title": "Assassins Creed: Bloodlines",
+        "title": "Assassin's Creed: Bloodlines",
         "version": "1.00",
         "author": "Takuhii"
     },
@@ -1223,5 +1223,150 @@
         "title": "LocoRoco Midnight Carnival",
         "version": "1.00",
         "author": "Takuhii"
+    },
+    {
+        "id": "7THDRAGON2020",
+        "title": "7th Dragon 2020",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "BREATHFIREIII3",
+        "title": "Breath of Fire III",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "CASTLEVANIAX",
+        "title": "Castlevania - The Dracula X Chronicles",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "CLADUN",
+        "title": "ClaDun - This is an RPG",
+        "version": "1.00",
+		"manual": "true",
+        "author": "Gaardus"
+    },
+    {
+        "id": "CLASSOFHEROES",
+        "title": "Class of Heroes",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "CRIMSONGEMSAGA",
+        "title": "Crimson Gem Saga",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "DISSIDIA012ALT",
+        "title": "Dissidia Final Fantasy - Duodecim 012",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "DJMAXP3",
+        "title": "DJMax Portable 3",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "ECHOCHROME",
+        "title": "Echochrome",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "GRANDKNIGHTSHISTORY",
+        "title": "Grand Knights History",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "HALFMINUTEHERO",
+        "title": "Half Minute Hero",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "HARVESTMOONHLV",
+        "title": "Harvest Moon - Hero of Leaf Valley",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "KNIGHTNIGHT2",
+        "title": "Knights in the Nightmare",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "PACMANCE",
+        "title": "Pac-Man Championship Edition",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "PANGYA",
+        "title": "Pangya: Fantasy Golf",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "PATAPON",
+        "title": "Patapon",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "PATAPON3",
+        "title": "Patapon 3",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "PERSONA",
+        "title": "Persona",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "PERSONA2IS",
+        "title": "Persona 2 Innocent Sin",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "RIVIERA",
+        "title": "Riviera - The Promised Land",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "SEGAGENESISCOLLECTION",
+        "title": "SEGA Genesis Collection",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "SPACEINVADERSEXTREME",
+        "title": "Space Invaders Extreme",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "YGGDRA2",
+        "title": "Yggdra Union",
+        "version": "1.00",
+        "author": "Gaardus"
+    },
+    {
+        "id": "ZHP",
+        "title": "Z.H.P. Unlosing Ranger VS Darkdeath Evilman",
+        "version": "1.00",
+        "author": "Gaardus"
     }
 ]
