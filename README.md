@@ -17,7 +17,7 @@ If you want to share your resources and upload them so anyone can be able to use
 **NOTE:**
 1. Images have to be inside a folder inside a ZIP file.
 2. The name of the folder inside your ZIP and the ZIP file must match the ID of your upload and name of the preview image.
-3. For the preview, you can upload an image named ID.png (together with the ZIP file), up to 256*256 or 128*128, using icon0.png for this is highly recomended.
+3. For the preview, you can upload an image named ID.jpg (together with the ZIP file), 128*128 (format jpg)
 4. The resources in the folder inside the ZIP file must be in the following sizes :
 
 - icon0.png			128x128<br>
