@@ -1223,5 +1223,23 @@
         "title": "LocoRoco Midnight Carnival",
         "version": "1.00",
         "author": "Takuhii"
+    },
+    {
+        "id": "DAEDALUSX64",
+        "title": "Daedalus X64 Emulator",
+        "version": "1.00",
+        "author": "Takuhii"
+    },
+    {
+        "id": "GODOFWAR_CHAINSOFOLYMPUS",
+        "title": "God of War: Chains of Olympus",
+        "version": "1.00",
+        "author": "Takuhii"
+    },
+    {
+        "id": "GODOFWAR_GHOSTOFSPARTA",
+        "title": "God of War: Ghost of Sparta",
+        "version": "1.00",
+        "author": "Takuhii"
     }
 ]
