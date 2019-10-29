@@ -1,5 +1,5 @@
 {
-	"authors" : [
+	"authors": [
 		"Quasinconsistent",
 		"gdljjrod",
 		"Jeffry Avila",
@@ -10,1376 +10,1393 @@
 		"Takuhii",
 		"Gaardus"
 	],
-
-	"content" : [
+	"content": [
 		{
-			"id" : "ALADDIN",
-			"title" : "Aladdin - Nasira's Revenge",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "ALADDIN",
+			"title": "Aladdin - Nasira's Revenge",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "ALUNDRA",
-			"title" : "Alundra",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "ALUNDRA",
+			"title": "Alundra",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "BREATHIII",
-			"title" : "Breath of Fire III",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "BREATHIII",
+			"title": "Breath of Fire III",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "BREATHIV",
-			"title" : "Breath of Fire IV",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "BREATHIV",
+			"title": "Breath of Fire IV",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "CHTRIGGER",
-			"title" : "Chrono Trigger",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "CHTRIGGER",
+			"title": "Chrono Trigger",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "CLADUNX2",
-			"title" : "ClaDun x2",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "CLADUNX2",
+			"title": "ClaDun x2",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "DARKSTALKERS",
-			"title" : "Darkstalkers Chronicle",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "DARKSTALKERS",
+			"title": "Darkstalkers Chronicle",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "DIGIMONCARD",
-			"title" : "Digimon Digital Card Battle",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "DIGIMONCARD",
+			"title": "Digimon Digital Card Battle",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "DIGIMONRUMBLE",
-			"title" : "Digimon Rumble Arena",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "DIGIMONRUMBLE",
+			"title": "Digimon Rumble Arena",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "DIGIMONW",
-			"title" : "Digimon World",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "DIGIMONW",
+			"title": "Digimon World",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "DIGIMONW2",
-			"title" : "Digimon World 2",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "DIGIMONW2",
+			"title": "Digimon World 2",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "DISGAEA",
-			"title" : "Disgaea",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "DISGAEA",
+			"title": "Disgaea",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "DISGAEA2",
-			"title" : "Disgaea 2",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "DISGAEA2",
+			"title": "Disgaea 2",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "DISSIDIA",
-			"title" : "Dissidia Final Fantasy",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "DISSIDIA",
+			"title": "Dissidia Final Fantasy",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "DISSIDIA012",
-			"title" : "Dissidia Final Fantasy - Duodecim 012",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "DISSIDIA012",
+			"title": "Dissidia Final Fantasy - Duodecim 012",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "FFI",
-			"title" : "Final Fantasy I",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "FFI",
+			"title": "Final Fantasy I",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "FFII",
-			"title" : "Final Fantasy II",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "FFII",
+			"title": "Final Fantasy II",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "FFIII",
-			"title" : "Final Fantasy III",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "FFIII",
+			"title": "Final Fantasy III",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "FFIV",
-			"title" : "Final Fantasy IV",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "FFIV",
+			"title": "Final Fantasy IV",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "FFVI",
-			"title" : "Final Fantasy VI",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "FFVI",
+			"title": "Final Fantasy VI",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "FFVII",
-			"title" : "Final Fantasy VII",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "FFVII",
+			"title": "Final Fantasy VII",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "FFVIII",
-			"title" : "Final Fantasy VIII",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "FFVIII",
+			"title": "Final Fantasy VIII",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "FFIX",
-			"title" : "Final Fantasy IX",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "FFIX",
+			"title": "Final Fantasy IX",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "FFTACTICS",
-			"title" : "Final Fantasy Tactics - War of The Lions",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "FFTACTICS",
+			"title": "Final Fantasy Tactics - War of The Lions",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "JEANNEARC",
-			"title" : "Jeanne d'Arc",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "JEANNEARC",
+			"title": "Jeanne d'Arc",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "KLONOADOOR",
-			"title" : "Klonoa: Door to Phantomile",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "KLONOADOOR",
+			"title": "Klonoa: Door to Phantomile",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "KNIGHTNIGHT",
-			"title" : "Knights in the Nightmare",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "KNIGHTNIGHT",
+			"title": "Knights in the Nightmare",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "LAPUCELLE",
-			"title" : "La Pucelle",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "LAPUCELLE",
+			"title": "La Pucelle",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "LEGACYKAIN",
-			"title" : "Legacy of Kain - Soul Reaver",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "LEGACYKAIN",
+			"title": "Legacy of Kain - Soul Reaver",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "LEGDRAGOON",
-			"title" : "Legend of Dragoon",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "LEGDRAGOON",
+			"title": "Legend of Dragoon",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "LEGENDMANA",
-			"title" : "Legend of Mana",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "LEGENDMANA",
+			"title": "Legend of Mana",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "MAKAIKINGDOM",
-			"title" : "Makai Kingdom",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "MAKAIKINGDOM",
+			"title": "Makai Kingdom",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "MARVELCAPCOM",
-			"title" : "Marvel vs. Capcom",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "MARVELCAPCOM",
+			"title": "Marvel vs. Capcom",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "MEDIEVIL",
-			"title" : "Medievil",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "MEDIEVIL",
+			"title": "Medievil",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "METALSLUGANTH",
-			"title" : "Metal SLug Anthology",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "METALSLUGANTH",
+			"title": "Metal SLug Anthology",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "MH3ERDP",
-			"title" : "Monster Hunter 3rd Portable",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "MH3ERDP",
+			"title": "Monster Hunter 3rd Portable",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "MHFUNITE",
-			"title" : "Monster Hunter Freedom Unite",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "MHFUNITE",
+			"title": "Monster Hunter Freedom Unite",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "MK4",
-			"title" : "Mortal Kombat 4",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "MK4",
+			"title": "Mortal Kombat 4",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "MKTRILOGY",
-			"title" : "Mortal Kombat Trilogy",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "MKTRILOGY",
+			"title": "Mortal Kombat Trilogy",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "MKUNCHAINED",
-			"title" : "Mortal Kombat Unchained",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "MKUNCHAINED",
+			"title": "Mortal Kombat Unchained",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "NARUTOSHIPPUDEN",
-			"title" : "Naruto Shippuden Ultimate Ninja Impact",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "NARUTOSHIPPUDEN",
+			"title": "Naruto Shippuden Ultimate Ninja Impact",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "PSP2",
-			"title" : "Phantasy Star Portable 2",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "PSP2",
+			"title": "Phantasy Star Portable 2",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "PHANTOMBRAVE",
-			"title" : "Phantom Brave - The Hermuda Triangle",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "PHANTOMBRAVE",
+			"title": "Phantom Brave - The Hermuda Triangle",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "POWERSTONECOL",
-			"title" : "Power Stone Collection",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "POWERSTONECOL",
+			"title": "Power Stone Collection",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "PRINNY",
-			"title" : "Prinny",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "PRINNY",
+			"title": "Prinny",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "PRINNY2",
-			"title" : "Prinny 2",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "PRINNY2",
+			"title": "Prinny 2",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "RAGNAROKT",
-			"title" : "Ragnarok Tactics",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "RAGNAROKT",
+			"title": "Ragnarok Tactics",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "TACTICSOGRE",
-			"title" : "Tactics Ogre",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "TACTICSOGRE",
+			"title": "Tactics Ogre",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "VAGRANT",
-			"title" : "Vagrant Story",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "VAGRANT",
+			"title": "Vagrant Story",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "XENOGEARS",
-			"title" : "Xenogears",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "XENOGEARS",
+			"title": "Xenogears",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "YGGDRA",
-			"title" : "Yggdra Union",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "YGGDRA",
+			"title": "Yggdra Union",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "YSSEVEN",
-			"title" : "YS Seven",
-			"version" : "1.00",
-			"author" : "Quasinconsistent"
+			"id": "YSSEVEN",
+			"title": "YS Seven",
+			"version": "1.00",
+			"author": "Quasinconsistent"
 		},
 		{
-			"id" : "CASTLESOTN",
-			"title" : "Castlevania: Symphony of the Night",
-			"version" : "1.00",
-			"author" : "gdljjrod"
+			"id": "CASTLESOTN",
+			"title": "Castlevania: Symphony of the Night",
+			"version": "1.00",
+			"author": "gdljjrod"
 		},
 		{
-			"id" : "FFCCORE",
-			"title" : "Crisis Core: Final Fantasy VII",
-			"version" : "1.00",
-			"author" : "gdljjrod"
+			"id": "FFCCORE",
+			"title": "Crisis Core: Final Fantasy VII",
+			"version": "1.00",
+			"author": "gdljjrod"
 		},
 		{
-			"id" : "FFTYPE0",
-			"title" : "Final Fantasy Type-0",
-			"version" : "1.00",
-			"author" : "gdljjrod"
+			"id": "FFTYPE0",
+			"title": "Final Fantasy Type-0",
+			"version": "1.00",
+			"author": "gdljjrod"
 		},
 		{
-			"id" : "FFVII_2",
-			"title" : "Final Fantasy VII",
-			"version" : "1.00",
-			"author" : "gdljjrod"
+			"id": "FFVII_2",
+			"title": "Final Fantasy VII",
+			"version": "1.00",
+			"author": "gdljjrod"
 		},
 		{
-			"id" : "KHBBSFMIX",
-			"title" : "Kingdom Hearts Birth by Sleep Final Mix",
-			"version" : "1.00",
-			"author" : "gdljjrod"
+			"id": "KHBBSFMIX",
+			"title": "Kingdom Hearts Birth by Sleep Final Mix",
+			"version": "1.00",
+			"author": "gdljjrod"
 		},
 		{
-			"id" : "P3P",
-			"title" : "Persona Portable 3",
-			"version" : "1.00",
-			"author" : "gdljjrod"
+			"id": "P3P",
+			"title": "Persona Portable 3",
+			"version": "1.00",
+			"author": "gdljjrod"
 		},
 		{
-			"id" : "P3P_2",
-			"title" : "Persona Portable 3",
-			"version" : "1.00",
-			"author" : "gdljjrod"
+			"id": "P3P_2",
+			"title": "Persona Portable 3",
+			"version": "1.00",
+			"author": "gdljjrod"
 		},
 		{
-			"id" : "SH1",
-			"title" : "Silent Hill 1",
-			"version" : "1.00",
-			"author" : "gdljjrod"
+			"id": "SH1",
+			"title": "Silent Hill 1",
+			"version": "1.00",
+			"author": "gdljjrod"
 		},
 		{
-			"id" : "DINOCRISIS1",
-			"title" : "Dino Crisis 1",
-			"version" : "1.00",
-			"author" : "gdljjrod"
+			"id": "DINOCRISIS1",
+			"title": "Dino Crisis 1",
+			"version": "1.00",
+			"author": "gdljjrod"
 		},
 		{
-			"id" : "ALONEDARK",
-			"title" : "Alone in the Dark",
-			"version" : "1.00",
-			"author" : "Jeffry Avila"
+			"id": "ALONEDARK",
+			"title": "Alone in the Dark",
+			"version": "1.00",
+			"author": "Jeffry Avila"
 		},
 		{
-			"id" : "CRASHB",
-			"title" : "Crash Bandicoot",
-			"version" : "1.00",
-			"author" : "Jeffry Avila"
+			"id": "CRASHB",
+			"title": "Crash Bandicoot",
+			"version": "1.00",
+			"author": "Jeffry Avila"
 		},
 		{
-			"id" : "CRASHB2",
-			"title" : "Crash Bandicoot 2",
-			"version" : "1.00",
-			"author" : "Jeffry Avila"
+			"id": "CRASHB2",
+			"title": "Crash Bandicoot 2",
+			"version": "1.00",
+			"author": "Jeffry Avila"
 		},
 		{
-			"id" : "CRASHB3",
-			"title" : "Crash Bandicoot 3",
-			"version" : "1.00",
-			"author" : "Jeffry Avila"
+			"id": "CRASHB3",
+			"title": "Crash Bandicoot 3",
+			"version": "1.00",
+			"author": "Jeffry Avila"
 		},
 		{
-			"id" : "CRASHTEAMR",
-			"title" : "Crash Team Rancing",
-			"version" : "1.00",
-			"author" : "Jeffry Avila"
+			"id": "CRASHTEAMR",
+			"title": "Crash Team Rancing",
+			"version": "1.00",
+			"author": "Jeffry Avila"
 		},
 		{
-			"id" : "CREATURES",
-			"title" : "Creatures",
-			"version" : "1.00",
-			"author" : "Jeffry Avila"
+			"id": "CREATURES",
+			"title": "Creatures",
+			"version": "1.00",
+			"author": "Jeffry Avila"
 		},
 		{
-			"id" : "CREATURES2",
-			"title" : "Creatures II",
-			"version" : "1.00",
-			"author" : "Jeffry Avila"
+			"id": "CREATURES2",
+			"title": "Creatures II",
+			"version": "1.00",
+			"author": "Jeffry Avila"
 		},
 		{
-			"id" : "FEAREFFECT",
-			"title" : "Fear Effect",
-			"version" : "1.00",
-			"author" : "Jeffry Avila"
+			"id": "FEAREFFECT",
+			"title": "Fear Effect",
+			"version": "1.00",
+			"author": "Jeffry Avila"
 		},
 		{
-			"id" : "FEAREFFECT2",
-			"title" : "Fear Effect 2",
-			"version" : "1.00",
-			"author" : "Jeffry Avila"
+			"id": "FEAREFFECT2",
+			"title": "Fear Effect 2",
+			"version": "1.00",
+			"author": "Jeffry Avila"
 		},
 		{
-			"id" : "GALERIANS",
-			"title" : "Galerians",
-			"version" : "1.00",
-			"author" : "Jeffry Avila"
+			"id": "GALERIANS",
+			"title": "Galerians",
+			"version": "1.00",
+			"author": "Jeffry Avila"
 		},
 		{
-			"id" : "MARTIANGUNIF",
-			"title" : "Martian Gothic Unification",
-			"version" : "1.00",
-			"author" : "Jeffry Avila"
+			"id": "MARTIANGUNIF",
+			"title": "Martian Gothic Unification",
+			"version": "1.00",
+			"author": "Jeffry Avila"
 		},
 		{
-			"id" : "RE2",
-			"title" : "Resident Evil 2",
-			"version" : "1.00",
-			"author" : "Jeffry Avila"
+			"id": "RE2",
+			"title": "Resident Evil 2",
+			"version": "1.00",
+			"author": "Jeffry Avila"
 		},
 		{
-			"id" : "PEVEI",
-			"title" : "Parasit Eve I",
-			"version" : "1.00",
-			"author" : "Jeffry Avila"
+			"id": "PEVEI",
+			"title": "Parasit Eve I",
+			"version": "1.00",
+			"author": "Jeffry Avila"
 		},
 		{
-			"id" : "SOULREAVER",
-			"title" : "Legacy of Kain - Soul Reaver",
-			"version" : "1.00",
-			"author" : "Jeffry Avila"
+			"id": "SOULREAVER",
+			"title": "Legacy of Kain - Soul Reaver",
+			"version": "1.00",
+			"author": "Jeffry Avila"
 		},
 		{
-			"id" : "STARWARSREBELII",
-			"title" : "Star Wars Rebel Assault II",
-			"version" : "1.00",
-			"author" : "Jeffry Avila"
+			"id": "STARWARSREBELII",
+			"title": "Star Wars Rebel Assault II",
+			"version": "1.00",
+			"author": "Jeffry Avila"
 		},
 		{
-			"id" : "VICECITY",
-			"title" : "GTA Vice City Stories",
-			"version" : "1.00",
-			"author" : "Samir2298"
+			"id": "VICECITY",
+			"title": "GTA Vice City Stories",
+			"version": "1.00",
+			"author": "Samir2298"
 		},
 		{
-			"id" : "PEACEWALKER",
-			"title" : "Metal Gear Peace Walker",
-			"version" : "1.00",
-			"author" : "libardomm"
+			"id": "PEACEWALKER",
+			"title": "Metal Gear Peace Walker",
+			"version": "1.00",
+			"author": "libardomm"
 		},
 		{
-			"id" : "PORTABLEOPS",
-			"title" : "Metal Gear Solid Portable OPS",
-			"version" : "1.00",
-			"author" : "libardomm"
+			"id": "PORTABLEOPS",
+			"title": "Metal Gear Solid Portable OPS",
+			"version": "1.00",
+			"author": "libardomm"
 		},
 		{
-			"id" : "MGSTACTICAL",
-			"title" : "Metal Gear Solid Tactical Espionage",
-			"version" : "1.00",
-			"author" : "libardomm"
+			"id": "MGSTACTICAL",
+			"title": "Metal Gear Solid Tactical Espionage",
+			"version": "1.00",
+			"author": "libardomm"
 		},
 		{
-			"id" : "GBA",
-			"title" : "Emulator GameBoy Advance",
-			"version" : "1.00",
-			"author" : "libardomm"
+			"id": "GBA",
+			"title": "Emulator GameBoy Advance",
+			"version": "1.00",
+			"author": "libardomm"
 		},
 		{
-			"id" : "FFTACTICS2",
-			"title" : "Final Fantasy Tactics - War of The Lions",
-			"version" : "1.00",
-			"author" : "libardomm"
+			"id": "FFTACTICS2",
+			"title": "Final Fantasy Tactics - War of The Lions",
+			"version": "1.00",
+			"author": "libardomm"
 		},
 		{
-			"id" : "CHRONOTRIGGER",
-			"title" : "Chrono Trigger",
-			"version" : "1.00",
-			"author" : "libardomm"
+			"id": "CHRONOTRIGGER",
+			"title": "Chrono Trigger",
+			"version": "1.00",
+			"author": "libardomm"
 		},
 		{
-			"id" : "PERSONA3",
-			"title" : "Persona Portable 3",
-			"version" : "1.00",
-			"author" : "libardomm"
+			"id": "PERSONA3",
+			"title": "Persona Portable 3",
+			"version": "1.00",
+			"author": "libardomm"
 		},
 		{
-			"id" : "LITTLERALPH",
-			"title" : "Adventures of Little Ralph",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "LITTLERALPH",
+			"title": "Adventures of Little Ralph",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "LOMAX",
-			"title" : "Adventures of Lomax",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "LOMAX",
+			"title": "Adventures of Lomax",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "BLASTO",
-			"title" : "Blasto",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "BLASTO",
+			"title": "Blasto",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "BLOODLEGACYKAIN",
-			"title" : "Blood Omen - Legacy of Kain",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "BLOODLEGACYKAIN",
+			"title": "Blood Omen - Legacy of Kain",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "BLOODYROAR2",
-			"title" : "Bloody Roar 2",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "BLOODYROAR2",
+			"title": "Bloody Roar 2",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "BRAVEFENCER",
-			"title" : "Brave Fencer Musashi",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "BRAVEFENCER",
+			"title": "Brave Fencer Musashi",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "BREATHFIREIII2",
-			"title" : "Breath of Fire III",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "BREATHFIREIII2",
+			"title": "Breath of Fire III",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "BREATHFIREIV2",
-			"title" : "Breath of Fire IV",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "BREATHFIREIV2",
+			"title": "Breath of Fire IV",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "BUSHIDO",
-			"title" : "Bushido Blade",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "BUSHIDO",
+			"title": "Bushido Blade",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "BUSTMOVE4",
-			"title" : "Bust A Move 4",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "BUSTMOVE4",
+			"title": "Bust A Move 4",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "CASTLECHRONICLES",
-			"title" : "Castlevania Chronicles",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "CASTLECHRONICLES",
+			"title": "Castlevania Chronicles",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "CASTLESOTN2",
-			"title" : "Castlevania: Symphony of the Night",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "CASTLESOTN2",
+			"title": "Castlevania: Symphony of the Night",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "CHOANIKI",
-			"title" : "Cho Aniki",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "CHOANIKI",
+			"title": "Cho Aniki",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "CHRONOCROSS",
-			"title" : "Chrono Cross",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "CHRONOCROSS",
+			"title": "Chrono Cross",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "COLONYWARS",
-			"title" : "Colony Wars",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "COLONYWARS",
+			"title": "Colony Wars",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "CRASHBANDICOOT",
-			"title" : "Crash Bandicoot",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "CRASHBANDICOOT",
+			"title": "Crash Bandicoot",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "DESTREGA",
-			"title" : "Destrega",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "DESTREGA",
+			"title": "Destrega",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "DINOCRISISS",
-			"title" : "Dino Crisis",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "DINOCRISISS",
+			"title": "Dino Crisis",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "ECHONIGHT2",
-			"title" : "Echo Night 2",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "ECHONIGHT2",
+			"title": "Echo Night 2",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "EINHANDER",
-			"title" : "Einhander",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "EINHANDER",
+			"title": "Einhander",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "FADETOBLACK",
-			"title" : "Fade to Black",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "FADETOBLACK",
+			"title": "Fade to Black",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "FANTNIGHTSDREAM",
-			"title" : "Fantasic Nights Dreams Cotton",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "FANTNIGHTSDREAM",
+			"title": "Fantasic Nights Dreams Cotton",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "FINALFANTASYIX",
-			"title" : "Final Fantasy IX",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "FINALFANTASYIX",
+			"title": "Final Fantasy IX",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "FINALFANTASYVII",
-			"title" : "Final Fantasy VII",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "FINALFANTASYVII",
+			"title": "Final Fantasy VII",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "FINALFANTASYVIII",
-			"title" : "Final Fantasy VIII",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "FINALFANTASYVIII",
+			"title": "Final Fantasy VIII",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "FISTNORTHSTAR",
-			"title" : "Fist of the North Star",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "FISTNORTHSTAR",
+			"title": "Fist of the North Star",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "FRONTMISSION3",
-			"title" : "Front Mission 3",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "FRONTMISSION3",
+			"title": "Front Mission 3",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "GDARIUS",
-			"title" : "G-Darius",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "GDARIUS",
+			"title": "G-Darius",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "GRANDIA",
-			"title" : "Grandia",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "GRANDIA",
+			"title": "Grandia",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "GRANTSTREAM",
-			"title" : "Granstream Saga",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "GRANTSTREAM",
+			"title": "Granstream Saga",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "HARMFULPARK",
-			"title" : "Harmful Park",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "HARMFULPARK",
+			"title": "Harmful Park",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "HEARTDARKNESS",
-			"title" : "Heart of Darkness",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "HEARTDARKNESS",
+			"title": "Heart of Darkness",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "HELLNIGHT",
-			"title" : "Hell Night",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "HELLNIGHT",
+			"title": "Hell Night",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "INCRECRISIS",
-			"title" : "Incredible Crisis",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "INCRECRISIS",
+			"title": "Incredible Crisis",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "ISSECTION",
-			"title" : "IS - Internal Section",
-			"version" : "1.00",
-			"author" : "Ultrameyda"
+			"id": "ISSECTION",
+			"title": "IS - Internal Section",
+			"version": "1.00",
+			"author": "Ultrameyda"
 		},
 		{
-			"id" : "FF5PS1RETRO",
-			"title" : "Final Fantasy V PS1 Retro",
-			"version" : "1.00",
-			"author" : "Belickade"
+			"id": "FF5PS1RETRO",
+			"title": "Final Fantasy V PS1 Retro",
+			"version": "1.00",
+			"author": "Belickade"
 		},
 		{
-			"id" : "FF6PS1RETRO",
-			"title" : "Final Fantasy VI PS1 Retro",
-			"version" : "1.00",
-			"author" : "Belickade"
+			"id": "FF6PS1RETRO",
+			"title": "Final Fantasy VI PS1 Retro",
+			"version": "1.00",
+			"author": "Belickade"
 		},
 		{
-			"id" : "FF7PS1RETRO",
-			"title" : "Final Fantasy VII PS1 Retro",
-			"version" : "1.00",
-			"author" : "Belickade"
+			"id": "FF7PS1RETRO",
+			"title": "Final Fantasy VII PS1 Retro",
+			"version": "1.00",
+			"author": "Belickade"
 		},
 		{
-			"id" : "FF8PS1RETRO",
-			"title" : "Final Fantasy VIII PS1 Retro",
-			"version" : "1.00",
-			"author" : "Belickade"
+			"id": "FF8PS1RETRO",
+			"title": "Final Fantasy VIII PS1 Retro",
+			"version": "1.00",
+			"author": "Belickade"
 		},
 		{
-			"id" : "FF9PS1RETRO",
-			"title" : "Final Fantasy IX PS1 Retro",
-			"version" : "1.00",
-			"author" : "Belickade"
+			"id": "FF9PS1RETRO",
+			"title": "Final Fantasy IX PS1 Retro",
+			"version": "1.00",
+			"author": "Belickade"
 		},
 		{
-			"id" : "FFORIGINSPS1RETRO",
-			"title" : "Final Fantasy Origins PS1 Retro",
-			"version" : "1.00",
-			"author" : "Belickade"
+			"id": "FFORIGINSPS1RETRO",
+			"title": "Final Fantasy Origins PS1 Retro",
+			"version": "1.00",
+			"author": "Belickade"
 		},
 		{
-			"id" : "FFTACTICSPS1RETRO",
-			"title" : "Final Fantasy Tactics PS1 Retro",
-			"version" : "1.00",
-			"author" : "Belickade"
+			"id": "FFTACTICSPS1RETRO",
+			"title": "Final Fantasy Tactics PS1 Retro",
+			"version": "1.00",
+			"author": "Belickade"
 		},
 		{
-			"id" : "2XEXTREMEPS1RETRO",
-			"title" : "2X Extreme PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "2XEXTREMEPS1RETRO",
+			"title": "2X Extreme PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "BLOODKAINPS1RETRO",
-			"title" : "Blood Omen Legacy of Kain PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "BLOODKAINPS1RETRO",
+			"title": "Blood Omen Legacy of Kain PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "ALUNDRAPS1RETRO",
-			"title" : "Alundra PS1 Retro",
-			"version" : "1.00",
-			"author" : "Belickade"
+			"id": "ALUNDRAPS1RETRO",
+			"title": "Alundra PS1 Retro",
+			"version": "1.00",
+			"author": "Belickade"
 		},
 		{
-			"id" : "BILLIARDSPS1RETRO",
-			"title" : "Backstreet Billiards PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "BILLIARDSPS1RETRO",
+			"title": "Backstreet Billiards PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "BOMBRACEPS1RETRO",
-			"title" : "Bomberman Fantasy Race PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "BOMBRACEPS1RETRO",
+			"title": "Bomberman Fantasy Race PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "BOMBPARTYPS1RETRO",
-			"title" : "Bomberman Party Edition PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "BOMBPARTYPS1RETRO",
+			"title": "Bomberman Party Edition PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "ARCLADPS1RETRO",
-			"title" : "Arc the Lad PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "ARCLADPS1RETRO",
+			"title": "Arc the Lad PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "ARCLAD2PS1RETRO",
-			"title" : "Arc the Lad 2 PS1 Retro",
-			"version" : "1.00",
-			"author" : "Belickade"
+			"id": "ARCLAD2PS1RETRO",
+			"title": "Arc the Lad 2 PS1 Retro",
+			"version": "1.00",
+			"author": "Belickade"
 		},
 		{
-			"id" : "ARCLAD3PS1RETRO",
-			"title" : "Arc the Lad 3 PS1 Retro",
-			"version" : "1.00",
-			"author" : "Belickade"
+			"id": "ARCLAD3PS1RETRO",
+			"title": "Arc the Lad 3 PS1 Retro",
+			"version": "1.00",
+			"author": "Belickade"
 		},
 		{
-			"id" : "ARCTOURPS1RETRO",
-			"title" : "Arc Arena Monster Tournament PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "ARCTOURPS1RETRO",
+			"title": "Arc Arena Monster Tournament PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "BOXINGPS1RETRO",
-			"title" : "Boxing PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "BOXINGPS1RETRO",
+			"title": "Boxing PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "BREATHFIRE4PS1RETRO",
-			"title" : "Breath of Fire IV PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "BREATHFIRE4PS1RETRO",
+			"title": "Breath of Fire IV PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "BHUNTERPS1RETRO",
-			"title" : "Battle Hunter PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "BHUNTERPS1RETRO",
+			"title": "Battle Hunter PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "ALLDBALLPS1RETRO",
-			"title" : "AllStar Slammin DBall PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "ALLDBALLPS1RETRO",
+			"title": "AllStar Slammin DBall PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "ACESAIRPS1RETRO",
-			"title" : "Aces of the Air PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "ACESAIRPS1RETRO",
+			"title": "Aces of the Air PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "ARMCOREPS1RETRO",
-			"title" : "Armored Core PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "ARMCOREPS1RETRO",
+			"title": "Armored Core PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "BLOODROAR2PS1RETRO",
-			"title" : "Bloody Roar 2 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "BLOODROAR2PS1RETRO",
+			"title": "Bloody Roar 2 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "CASTLESOTNPS1RETRO",
-			"title" : "Castlevania - SotN PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "CASTLESOTNPS1RETRO",
+			"title": "Castlevania - SotN PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "CASTLECHROPS1RETRO",
-			"title" : "Castlevania Chronicles PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "CASTLECHROPS1RETRO",
+			"title": "Castlevania Chronicles PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "CHRONOCROSSPS1RETRO",
-			"title" : "Chrono Cross PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "CHRONOCROSSPS1RETRO",
+			"title": "Chrono Cross PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "CHRONOTRIPS1RETRO",
-			"title" : "Chrono Trigger PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "CHRONOTRIPS1RETRO",
+			"title": "Chrono Trigger PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "CRASHBANDWARPS1RETRO",
-			"title" : "Crash Bandicoot Warped PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "CRASHBANDWARPS1RETRO",
+			"title": "Crash Bandicoot Warped PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "CRASHBAND1PS1RETRO",
-			"title" : "Crash Bandicoot 1 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "CRASHBAND1PS1RETRO",
+			"title": "Crash Bandicoot 1 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "CRASHBAND2PS1RETRO",
-			"title" : "Crash Bandicoot 2 Cortex PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "CRASHBAND2PS1RETRO",
+			"title": "Crash Bandicoot 2 Cortex PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "CRASHBANDTRPS1RETRO",
-			"title" : "Crash Team Racing PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "CRASHBANDTRPS1RETRO",
+			"title": "Crash Team Racing PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "DINOCRISIS1PS1RETRO",
-			"title" : "Dino Crisis 1 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "DINOCRISIS1PS1RETRO",
+			"title": "Dino Crisis 1 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "DINOCRISIS2PS1RETRO",
-			"title" : "Dino Crisis 2 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "DINOCRISIS2PS1RETRO",
+			"title": "Dino Crisis 2 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "GRANDIAPS1RETRO",
-			"title" : "Grandia PS1 Retro",
-			"version" : "1.00",
-			"author" : "Belickade"
+			"id": "GRANDIAPS1RETRO",
+			"title": "Grandia PS1 Retro",
+			"version": "1.00",
+			"author": "Belickade"
 		},
 		{
-			"id" : "HARVESTNATUREPS1RETRO",
-			"title" : "Harvest Moon Back to Nature PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "HARVESTNATUREPS1RETRO",
+			"title": "Harvest Moon Back to Nature PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "KLONOAPS1RETRO",
-			"title" : "Klonoa Door to Phantomile PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "KLONOAPS1RETRO",
+			"title": "Klonoa Door to Phantomile PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "LEGACYKAINPS1RETRO",
-			"title" : "Legacy of Kain Soul Reaver PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "LEGACYKAINPS1RETRO",
+			"title": "Legacy of Kain Soul Reaver PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "LEGDRAGOONPS1RETRO",
-			"title" : "Legend of Dragoon PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "LEGDRAGOONPS1RETRO",
+			"title": "Legend of Dragoon PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "LEGMANAPS1RETRO",
-			"title" : "Legend of Mana PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "LEGMANAPS1RETRO",
+			"title": "Legend of Mana PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "MEGAMAN8PS1RETRO",
-			"title" : "Mega Man 8 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "MEGAMAN8PS1RETRO",
+			"title": "Mega Man 8 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "MLEGENDS1PS1RETRO",
-			"title" : "Mega Man Legends 1 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "MLEGENDS1PS1RETRO",
+			"title": "Mega Man Legends 1 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "MLEGENDS2PS1RETRO",
-			"title" : "Mega Man Legends 2 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "MLEGENDS2PS1RETRO",
+			"title": "Mega Man Legends 2 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "MEGAMANX4PS1RETRO",
-			"title" : "Mega Man X4 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "MEGAMANX4PS1RETRO",
+			"title": "Mega Man X4 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "MEGAMANX5PS1RETRO",
-			"title" : "Mega Man X5 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "MEGAMANX5PS1RETRO",
+			"title": "Mega Man X5 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "RE3NEMESISPS1RETRO",
-			"title" : "Resident Evil 3 Nemesis PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "RE3NEMESISPS1RETRO",
+			"title": "Resident Evil 3 Nemesis PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "RE2DUALSHOCKPS1RETRO",
-			"title" : "RE Evil 2 Dual Shock Version PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "RE2DUALSHOCKPS1RETRO",
+			"title": "RE Evil 2 Dual Shock Version PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "REDIRECTORCUTPS1RETRO",
-			"title" : "Resident Evil Directors Cut PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "REDIRECTORCUTPS1RETRO",
+			"title": "Resident Evil Directors Cut PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "SHILLPS1RETRO",
-			"title" : "Silent Hill 1 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "SHILLPS1RETRO",
+			"title": "Silent Hill 1 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "METALGSOLIDPS1RETRO",
-			"title" : "Metal Gear Solid PS1 Retro",
-			"version" : "1.00",
-			"author" : "Belickade"
+			"id": "METALGSOLIDPS1RETRO",
+			"title": "Metal Gear Solid PS1 Retro",
+			"version": "1.00",
+			"author": "Belickade"
 		},
 		{
-			"id" : "METALGVRPS1RETRO",
-			"title" : "Metal Gear Solid VR Missions PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "METALGVRPS1RETRO",
+			"title": "Metal Gear Solid VR Missions PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "MSLUGXPS1RETRO",
-			"title" : "Metal Slug X PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "MSLUGXPS1RETRO",
+			"title": "Metal Slug X PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "PEVE1PS1RETRO",
-			"title" : "Parasite Eve 1 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "PEVE1PS1RETRO",
+			"title": "Parasite Eve 1 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "PEVE2PS1RETRO",
-			"title" : "Parasite Eve 2 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "PEVE2PS1RETRO",
+			"title": "Parasite Eve 2 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "P2ETERNALPS1RETRO",
-			"title" : "Persona 2 Eternal Punishment PS1 Retro",
-			"version" : "1.00",
-			"author" : "Belickade"
+			"id": "P2ETERNALPS1RETRO",
+			"title": "Persona 2 Eternal Punishment PS1 Retro",
+			"version": "1.00",
+			"author": "Belickade"
 		},
 		{
-			"id" : "RAYMANPS1RETRO",
-			"title" : "Rayman PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "RAYMANPS1RETRO",
+			"title": "Rayman PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "RAYMAN2PS1RETRO",
-			"title" : "Rayman 2 The Great Escape PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "RAYMAN2PS1RETRO",
+			"title": "Rayman 2 The Great Escape PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "SPYRO1PS1RETRO",
-			"title" : "Spyro the Dragon 1 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "SPYRO1PS1RETRO",
+			"title": "Spyro the Dragon 1 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "SPYRO2PS1RETRO",
-			"title" : "Spyro the Dragon 2 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "SPYRO2PS1RETRO",
+			"title": "Spyro the Dragon 2 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "SPYRO3PS1RETRO",
-			"title" : "Spyro the Dragon 3 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "SPYRO3PS1RETRO",
+			"title": "Spyro the Dragon 3 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "SUIKODEN1PS1RETRO",
-			"title" : "Suikoden 1 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "SUIKODEN1PS1RETRO",
+			"title": "Suikoden 1 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "SUIKODEN2PS1RETRO",
-			"title" : "Suikoden 2 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "SUIKODEN2PS1RETRO",
+			"title": "Suikoden 2 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "VAGRANTPS1RETRO",
-			"title" : "Vagrant Story PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "VAGRANTPS1RETRO",
+			"title": "Vagrant Story PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "WILDARMS1PS1RETRO",
-			"title" : "WildArms 1 PS1 Retro",
-			"version" : "1.00",
-			"author" : "Belickade"
+			"id": "WILDARMS1PS1RETRO",
+			"title": "WildArms 1 PS1 Retro",
+			"version": "1.00",
+			"author": "Belickade"
 		},
 		{
-			"id" : "WILDARMS2PS1RETRO",
-			"title" : "WildArms 2 PS1 Retro",
-			"version" : "1.00",
-			"author" : "Belickade"
+			"id": "WILDARMS2PS1RETRO",
+			"title": "WildArms 2 PS1 Retro",
+			"version": "1.00",
+			"author": "Belickade"
 		},
 		{
-			"id" : "XENOGEARSPS1RETRO",
-			"title" : "Xenogears PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "XENOGEARSPS1RETRO",
+			"title": "Xenogears PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "BLOODYPS1RETRO",
-			"title" : "Bloody Roar 1 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "BLOODYPS1RETRO",
+			"title": "Bloody Roar 1 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "BUSTMOVE4PS1RETRO",
-			"title" : "Bust A Move 4 PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "BUSTMOVE4PS1RETRO",
+			"title": "Bust A Move 4 PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "BOWLINGPS1RETRO",
-			"title" : "Bowling PS1 Retro",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Belickade"
+			"id": "BOWLINGPS1RETRO",
+			"title": "Bowling PS1 Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
 		},
 		{
-			"id" : "HOKUTONOKENRAOGAIDENTENNOHAO",
-			"title" : "Hokuto no Ken: Raō Gaiden: Ten no Haō",
-			"version" : "1.00",
-			"author" : "Takuhii"
+			"id": "HOKUTONOKENRAOGAIDENTENNOHAO",
+			"title": "Hokuto no Ken: Raō Gaiden: Ten no Haō",
+			"version": "1.00",
+			"author": "Takuhii"
 		},
 		{
-			"id" : "ASSASSINSCREEDBLOODLINES",
-			"title" : "Assassins Creed: Bloodlines",
-			"version" : "1.00",
-			"author" : "Takuhii"
+			"id": "ASSASSINSCREEDBLOODLINES",
+			"title": "Assassins Creed: Bloodlines",
+			"version": "1.00",
+			"author": "Takuhii"
 		},
 		{
-			"id" : "WIPEOUTPULSE",
-			"title" : "WipEout Pulse",
-			"version" : "1.00",
-			"author" : "Takuhii"
+			"id": "WIPEOUTPULSE",
+			"title": "WipEout Pulse",
+			"version": "1.00",
+			"author": "Takuhii"
 		},
 		{
-			"id" : "WIPEOUTPURE",
-			"title" : "WipEout Pure",
-			"version" : "1.00",
-			"author" : "Takuhii"
+			"id": "WIPEOUTPURE",
+			"title": "WipEout Pure",
+			"version": "1.00",
+			"author": "Takuhii"
 		},
 		{
-			"id" : "WIPEOUT",
-			"title" : "Wipeout",
-			"version" : "1.00",
-			"author" : "Takuhii"
+			"id": "WIPEOUT",
+			"title": "Wipeout",
+			"version": "1.00",
+			"author": "Takuhii"
 		},
 		{
-			"id" : "LOCOROCO2",
-			"title" : "LocoRoco 2",
-			"version" : "1.00",
-			"author" : "Takuhii"
+			"id": "LOCOROCO2",
+			"title": "LocoRoco 2",
+			"version": "1.00",
+			"author": "Takuhii"
 		},
 		{
-			"id" : "LOCOROCOMIDNIGHTCARNIVAL",
-			"title" : "LocoRoco Midnight Carnival",
-			"version" : "1.00",
-			"author" : "Takuhii"
+			"id": "LOCOROCOMIDNIGHTCARNIVAL",
+			"title": "LocoRoco Midnight Carnival",
+			"version": "1.00",
+			"author": "Takuhii"
 		},
 		{
-			"id" : "7THDRAGON2020",
-			"title" : "7th Dragon 2020",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "7THDRAGON2020",
+			"title": "7th Dragon 2020",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "BREATHFIREIII3",
-			"title" : "Breath of Fire III",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "BREATHFIREIII3",
+			"title": "Breath of Fire III",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "CASTLEVANIAX",
-			"title" : "Castlevania - The Dracula X Chronicles",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "CASTLEVANIAX",
+			"title": "Castlevania - The Dracula X Chronicles",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "CLADUN",
-			"title" : "ClaDun - This is an RPG",
-			"version" : "1.00",
-			"manual" : "true",
-			"author" : "Gaardus"
+			"id": "CLADUN",
+			"title": "ClaDun - This is an RPG",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "CLASSOFHEROES",
-			"title" : "Class of Heroes",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "CLASSOFHEROES",
+			"title": "Class of Heroes",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "CRIMSONGEMSAGA",
-			"title" : "Crimson Gem Saga",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "CRIMSONGEMSAGA",
+			"title": "Crimson Gem Saga",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "DISSIDIA012ALT",
-			"title" : "Dissidia Final Fantasy - Duodecim 012",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "DISSIDIA012ALT",
+			"title": "Dissidia Final Fantasy - Duodecim 012",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "DJMAXP3",
-			"title" : "DJMax Portable 3",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "DJMAXP3",
+			"title": "DJMax Portable 3",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "ECHOCHROME",
-			"title" : "Echochrome",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "ECHOCHROME",
+			"title": "Echochrome",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "GRANDKNIGHTSHISTORY",
-			"title" : "Grand Knights History",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "GRANDKNIGHTSHISTORY",
+			"title": "Grand Knights History",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "HALFMINUTEHERO",
-			"title" : "Half Minute Hero",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "HALFMINUTEHERO",
+			"title": "Half Minute Hero",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "HARVESTMOONHLV",
-			"title" : "Harvest Moon - Hero of Leaf Valley",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "HARVESTMOONHLV",
+			"title": "Harvest Moon - Hero of Leaf Valley",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "KNIGHTNIGHT2",
-			"title" : "Knights in the Nightmare",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "KNIGHTNIGHT2",
+			"title": "Knights in the Nightmare",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "PACMANCE",
-			"title" : "Pac-Man Championship Edition",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "PACMANCE",
+			"title": "Pac-Man Championship Edition",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "PANGYA",
-			"title" : "Pangya: Fantasy Golf",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "PANGYA",
+			"title": "Pangya: Fantasy Golf",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "PATAPON",
-			"title" : "Patapon",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "PATAPON",
+			"title": "Patapon",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "PATAPON3",
-			"title" : "Patapon 3",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "PATAPON3",
+			"title": "Patapon 3",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "PERSONA",
-			"title" : "Persona",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "PERSONA",
+			"title": "Persona",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "PERSONA2IS",
-			"title" : "Persona 2 Innocent Sin",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "PERSONA2IS",
+			"title": "Persona 2 Innocent Sin",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "RIVIERA",
-			"title" : "Riviera - The Promised Land",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "RIVIERA",
+			"title": "Riviera - The Promised Land",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "SEGAGENESISCOLLECTION",
-			"title" : "SEGA Genesis Collection",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "SEGAGENESISCOLLECTION",
+			"title": "SEGA Genesis Collection",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "SPACEINVADERSEXTREME",
-			"title" : "Space Invaders Extreme",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "SPACEINVADERSEXTREME",
+			"title": "Space Invaders Extreme",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "YGGDRA2",
-			"title" : "Yggdra Union",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "YGGDRA2",
+			"title": "Yggdra Union",
+			"version": "1.00",
+			"author": "Gaardus"
 		},
 		{
-			"id" : "ZHP",
-			"title" : "Z.H.P. Unlosing Ranger VS Darkdeath Evilman",
-			"version" : "1.00",
-			"author" : "Gaardus"
+			"id": "ZHP",
+			"title": "Z.H.P. Unlosing Ranger VS Darkdeath Evilman",
+			"version": "1.00",
+			"author": "Gaardus"
+		},
+		{
+			"id": "DAEDALUSX64",
+			"title": "Daedalus X64 Emulator",
+			"version": "1.00",
+			"author": "Takuhii"
+		},
+		{
+			"id": "GODOFWAR_CHAINSOFOLYMPUS",
+			"title": "God of War: Chains of Olympus",
+			"version": "1.00",
+			"author": "Takuhii"
+		},
+		{
+			"id": "GODOFWAR_GHOSTOFSPARTA",
+			"title": "God of War: Ghost of Sparta",
+			"version": "1.00",
+			"author": "Takuhii"
 		}
 	]
 }
