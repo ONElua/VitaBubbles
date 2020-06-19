@@ -1459,5 +1459,29 @@
 			"version": "1.00",
 			"author": "capSilver"
 		},
+		{
+			"id": "CRIMSONGEMSAGACS",
+			"title": "Crimson Gem Saga",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "FFVIICRISISCORE",
+			"title": "Final Fantasy VII - Crisis Core",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "DANTESINFERNO",
+			"title": "Dantes Inferno",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "DARKSTALKERSCHRONICLECHAOSTOWER",
+			"title": "Darkstalkers Chronicle- The Chaos Tower",
+			"version": "1.00",
+			"author": "capSilver"
+		},
 	]
 }
