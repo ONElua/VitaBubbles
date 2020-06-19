@@ -1507,5 +1507,29 @@
 			"version": "1.00",
 			"author": "capSilver"
 		},
+		{
+			"id": "FFTACTICSWAROFLIONSCS",
+			"title": "Final Fantasy Tavtics - The War of Lions",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "FFTYPE0CS",
+			"title": "Final Fantasy - Type 0",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "FMABROTHERHOOD",
+			"title": "Full Metal Alchemist - Brotherhood",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "GITAROOMANLIVES",
+			"title": "Gitarooman Lives",
+			"version": "1.00",
+			"author": "capSilver"
+		},
 	]
 }
