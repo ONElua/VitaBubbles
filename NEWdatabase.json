@@ -1483,5 +1483,29 @@
 			"version": "1.00",
 			"author": "capSilver"
 		},
+		{
+			"id": "DAXTER",
+			"title": "Daxter",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "DTRRECKONING",
+			"title": "Dead to Rights - Reckoning",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "DRAGONEERSARIA",
+			"title": "Dragoneers Aria",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "DUNGEONSIEGETHRONEAGONY",
+			"title": "Dungeon Siege - The Throne of Agony",
+			"version": "1.00",
+			"author": "capSilver"
+		},
 	]
 }
