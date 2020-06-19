@@ -8,7 +8,8 @@
 		"Ultrameyda",
 		"Belickade",
 		"Takuhii",
-		"Gaardus"
+		"Gaardus",
+		"capSilver"
 	],
 	"content": [
 		{
@@ -1431,6 +1432,30 @@
 		{
 			"id": "BURNOUTLEGENDS",
 			"title": "Burnout - Legends",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "CASTLEVANIADRCULAXCHRONICLES",
+			"title": "Castlevania - The Dracula X Chronicles",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "CHAOSHEADNORTH",
+			"title": "Chaos - Head North",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "CORPSEPARTY",
+			"title": "Corpse Party",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "CORPSEPARTYBOKOFSHADOWS",
+			"title": "Corpse Party - Book of Shadows",
 			"version": "1.00",
 			"author": "capSilver"
 		},
