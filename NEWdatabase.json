@@ -1410,5 +1410,29 @@
 			"version": "1.00",
 			"author": "Gaardus"
 		},
+		{
+			"id": "ASTONISHIASTORY",
+			"title": "Astonisha Story",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "BRANDISHDARKREVENANT",
+			"title": "Brandish - The Dark Revenant",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "BRAVESTORYNEWTRAVELER",
+			"title": "Brave Story - New Traveler",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "BURNOUTLEGENDS",
+			"title": "Burnout - Legends",
+			"version": "1.00",
+			"author": "capSilver"
+		},
 	]
 }
