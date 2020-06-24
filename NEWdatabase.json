@@ -8,7 +8,8 @@
 		"Ultrameyda",
 		"Belickade",
 		"Takuhii",
-		"Gaardus"
+		"Gaardus",
+		"capSilver"
 	],
 	"content": [
 		{
@@ -1195,13 +1196,13 @@
 		},
 		{
 			"id": "HOKUTONOKENRAOGAIDENTENNOHAO",
-			"title": "Hokuto no Ken: Raō Gaiden: Ten no Haō",
+			"title": "Hokuto no Ken - Rao Gaiden - Ten no Hao",
 			"version": "1.00",
 			"author": "Takuhii"
 		},
 		{
 			"id": "ASSASSINSCREEDBLOODLINES",
-			"title": "Assassins Creed: Bloodlines",
+			"title": "Assassins Creed Bloodlines",
 			"version": "1.00",
 			"author": "Takuhii"
 		},
@@ -1232,6 +1233,36 @@
 		{
 			"id": "LOCOROCOMIDNIGHTCARNIVAL",
 			"title": "LocoRoco Midnight Carnival",
+			"version": "1.00",
+			"author": "Takuhii"
+		},
+		{
+			"id": "CRAZYTAXIFAREWARS",
+			"title": "Crazy Taxi - Fare Wars",
+			"version": "1.00",
+			"author": "Takuhii"
+		},
+		{
+			"id": "LOCOROCO",
+			"title": "LocoRoco",
+			"version": "1.00",
+			"author": "Takuhii"
+		},
+		{
+			"id": "OUTRUN2006COASTTOCOAST",
+			"title": "Outrun 2006 - Coast to Coast",
+			"version": "1.00",
+			"author": "Takuhii"
+		},
+		{
+			"id": "GODOFWAR_CHAINSOFOLYMPUS",
+			"title": "God of War - Chains of Olympus",
+			"version": "1.00",
+			"author": "Takuhii"
+		},
+		{
+			"id": "GODOFWAR_GHOSTOFSPARTA",
+			"title": "God of War - Ghost of Sparta",
 			"version": "1.00",
 			"author": "Takuhii"
 		},
@@ -1381,28 +1412,124 @@
 			"author": "Gaardus"
 		},
 		{
-			"id": "DAEDALUSX64",
-			"title": "Daedalus X64 Emulator",
+			"id": "ASTONISHIASTORY",
+			"title": "Astonisha Story",
 			"version": "1.00",
-			"author": "Takuhii"
+			"author": "capSilver"
 		},
 		{
-			"id": "GODOFWAR_CHAINSOFOLYMPUS",
-			"title": "God of War: Chains of Olympus",
+			"id": "BRANDISHDARKREVENANT",
+			"title": "Brandish - The Dark Revenant",
 			"version": "1.00",
-			"author": "Takuhii"
+			"author": "capSilver"
 		},
 		{
-			"id": "GODOFWAR_GHOSTOFSPARTA",
-			"title": "God of War: Ghost of Sparta",
+			"id": "BRAVESTORYNEWTRAVELER",
+			"title": "Brave Story - New Traveler",
 			"version": "1.00",
-			"author": "Takuhii"
+			"author": "capSilver"
 		},
 		{
-			"id": "CHOCOLATEDOOM",
-			"title": "Chocolate Doom",
+			"id": "BURNOUTLEGENDS",
+			"title": "Burnout - Legends",
 			"version": "1.00",
-			"author": "Takuhii"
-		}
+			"author": "capSilver"
+		},
+		{
+			"id": "CASTLEVANIADRCULAXCHRONICLES",
+			"title": "Castlevania - The Dracula X Chronicles",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "CHAOSHEADNORTH",
+			"title": "Chaos - Head North",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "CORPSEPARTY",
+			"title": "Corpse Party",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "CORPSEPARTYBOKOFSHADOWS",
+			"title": "Corpse Party - Book of Shadows",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "CRIMSONGEMSAGACS",
+			"title": "Crimson Gem Saga",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "FFVIICRISISCORE",
+			"title": "Final Fantasy VII - Crisis Core",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "DANTESINFERNO",
+			"title": "Dantes Inferno",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "DARKSTALKERSCHRONICLECHAOSTOWER",
+			"title": "Darkstalkers Chronicle- The Chaos Tower",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "DAXTER",
+			"title": "Daxter",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "DTRRECKONING",
+			"title": "Dead to Rights - Reckoning",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "DRAGONEERSARIA",
+			"title": "Dragoneers Aria",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "DUNGEONSIEGETHRONEAGONY",
+			"title": "Dungeon Siege - The Throne of Agony",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "FFTACTICSWAROFLIONSCS",
+			"title": "Final Fantasy Tavtics - The War of Lions",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "FFTYPE0CS",
+			"title": "Final Fantasy - Type 0",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "FMABROTHERHOOD",
+			"title": "Full Metal Alchemist - Brotherhood",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "GITAROOMANLIVES",
+			"title": "Gitarooman Lives",
+			"version": "1.00",
+			"author": "capSilver"
+		},
 	]
 }
