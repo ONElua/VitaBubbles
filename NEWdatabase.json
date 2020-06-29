@@ -1509,7 +1509,7 @@
 		},
 		{
 			"id": "FFTACTICSWAROFLIONSCS",
-			"title": "Final Fantasy Tavtics - The War of Lions",
+			"title": "Final Fantasy Tactics - The War of Lions",
 			"version": "1.00",
 			"author": "capSilver"
 		},
@@ -1528,6 +1528,30 @@
 		{
 			"id": "GITAROOMANLIVES",
 			"title": "Gitarooman Lives",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "GOWCHAINSOLYMPUS",
+			"title": "God of War - Chains of Olympus",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "GOWGHOSTSPARTA",
+			"title": "God of War - Ghost of Sparta",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "GKHISTORY",
+			"title": "Grand Knight - History",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "GTACHINATOWNWARS",
+			"title": "Grand Theft Auto - Chinatown Wars",
 			"version": "1.00",
 			"author": "capSilver"
 		}
