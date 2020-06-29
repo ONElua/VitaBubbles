@@ -1638,6 +1638,48 @@
 			"title": "Lego Star Wars - The Original Trilogy",
 			"version": "1.00",
 			"author": "capSilver"
+		},
+		{
+			"id": "LITTLEBIGPLANET",
+			"title": "Little Big Planet",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "LOCOROCO1",
+			"title": "Loco Roco",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "LOCOROCO2CS",
+			"title": "Loco Roco 2",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "MANHUNT2",
+			"title": "Manhunt 2",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "MARVELULTIMATEALLIANCE",
+			"title": "Marvel - Ultimate Alliance",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "MEMYKATAMARI",
+			"title": "Me and My Katamari",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "MEDIEVILRESSURECTION",
+			"title": "MediEvil - Resurrection",
+			"version": "1.00",
+			"author": "capSilver"
 		}
 	]
 }
