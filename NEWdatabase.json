@@ -1554,6 +1554,48 @@
 			"title": "Grand Theft Auto - Chinatown Wars",
 			"version": "1.00",
 			"author": "capSilver"
+		},
+		{
+			"id": "GTALIBERTYCITYSTORIES",
+			"title": "Grand Theft Auto - Liberty City Stories",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "GTAVICECITYSTORIES",
+			"title": "Grand Theft Auto - Vice City Stories",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "GROWLANCERWOT",
+			"title": "Growlanser - Wayfarer Of Time",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "GUNSHOWDOWN",
+			"title": "Gun - Showdown",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "GURUMINMA",
+			"title": "Gurumin - A Monstrous Adventure",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "HALFMINUTEHERO",
+			"title": "Half-Minute Hero",
+			"version": "1.00",
+			"author": "capSilver"
+		},
+		{
+			"id": "HALFMINUTEHERO2",
+			"title": "Half-Minute Hero II - The Second Coming",
+			"version": "1.00",
+			"author": "capSilver"
 		}
 	]
 }
