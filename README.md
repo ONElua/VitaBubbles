@@ -31,7 +31,8 @@ If you want to share your resources and upload them so anyone can be able to use
 
 4. For the preview, you can upload an image named ID.jpg (together with the ZIP file), using icon0.png (convert to .jpg) for this is highly recomended.
 - ID.jpg			128x128<br>
-**NOTE:** The name of the folder inside your ZIP and the ZIP file must match the ID of your upload and name of the preview image
+
+**NOTE:** For Example "id": "ALADDIN", then aladdin.jpg 
 
 # DISCLAIMER #
 Onelua Team should not be held responsible for the images shared un this repo, since the rights for each image belongs to the owner/creator.<br>
