@@ -31,6 +31,7 @@ If you want to share your resources and upload them so anyone can be able to use
 
 4. For the preview, you can upload an image named ID.jpg (together with the ZIP file), using icon0.png (convert to .jpg) for this is highly recomended.
 - ID.jpg			128x128<br>
+**NOTE:** The name of the folder inside your ZIP and the ZIP file must match the ID of your upload and name of the preview image
 
 # DISCLAIMER #
 Onelua Team should not be held responsible for the images shared un this repo, since the rights for each image belongs to the owner/creator.<br>
@@ -44,6 +45,8 @@ Thanks to Ultrameyda for sharing his resources.<br>
 Thanks to Belickade for sharing his resources.<br>
 Thanks to Takuhii for sharing his resources.<br>
 Thanks to Gaardus for sharing his resources.<br>
+Thanks to capSilver for sharing his resources.<br>
+Thanks to MoonshineIndustries for sharing his resources.<br>
 
 ## Donation ##
 In case you want to support the work of the team on the vita, you can always donate for some coffee. Any amount is highly appreciated:
