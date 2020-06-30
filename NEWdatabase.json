@@ -9,7 +9,8 @@
 		"Belickade",
 		"Takuhii",
 		"Gaardus",
-		"capSilver"
+		"capSilver",
+		"MoonshineIndustries"
 	],
 	"content": [
 		{
@@ -1509,7 +1510,7 @@
 		},
 		{
 			"id": "FFTACTICSWAROFLIONSCS",
-			"title": "Final Fantasy Tavtics - The War of Lions",
+			"title": "Final Fantasy Tactics - The War of Lions",
 			"version": "1.00",
 			"author": "capSilver"
 		},
@@ -1530,6 +1531,24 @@
 			"title": "Gitarooman Lives",
 			"version": "1.00",
 			"author": "capSilver"
+		},
+		{
+			"id": "POPREV",
+			"title": "Prince of Persia: Revelations",
+			"version": "1.00",
+			"author": "MoonshineIndustries"
+		},
+		{
+			"id": "POPRS",
+			"title": "Prince of Persia: Rival Swords",
+			"version": "1.00",
+			"author": "MoonshineIndustries"
+		},
+		{
+			"id": "POPTFS",
+			"title": "Prince of Persia: The Forgotten Sands",
+			"version": "1.00",
+			"author": "MoonshineIndustries"
 		}
 	]
 }
