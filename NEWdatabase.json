@@ -10,7 +10,8 @@
 		"Takuhii",
 		"Gaardus",
 		"capSilver",
-		"MoonshineIndustries"
+		"MoonshineIndustries",
+		"ElDuniels"
 	],
 	"content": [
 		{
@@ -1737,13 +1738,13 @@
 			"author": "capSilver"
 		},
 		{
-			"id": "PATAPONCS2",
+			"id": "PATAPON2CS",
 			"title": "Patapon 2",
 			"version": "1.00",
 			"author": "capSilver"
 		},
 		{
-			"id": "PATAPONCS3",
+			"id": "PATAPON3CS",
 			"title": "Patapon 3",
 			"version": "1.00",
 			"author": "capSilver"
@@ -1773,7 +1774,7 @@
 			"author": "capSilver"
 		},
 		{
-			"id": "RIVIERAPROMISEDLANDE",
+			"id": "RIVIERAPROMISEDLAND",
 			"title": "Riviera - The Promised Land",
 			"version": "1.00",
 			"author": "capSilver"
@@ -1917,7 +1918,7 @@
 			"author": "capSilver"
 		},
 		{
-			"id": "TOCARACE2Y",
+			"id": "TOCARACE2",
 			"title": "TOCA - Race Driver 2",
 			"version": "1.00",
 			"author": "capSilver"
@@ -1936,31 +1937,31 @@
 		},
 		{
 			"id": "ULTIMATEGNG",
-			"title": "The Legend of Heroes - Trails in the Sky SC Disc 1",
+			"title": "Ultimate Ghostsn Goblins",
 			"version": "1.00",
 			"author": "capSilver"
 		},
 		{
 			"id": "ULBROTHERHOODBLADE",
-			"title": "The Legend of Heroes - Trails in the Sky SC Disc 2",
+			"title": "Untold Legends - Brotherhood of the Blade",
 			"version": "1.00",
 			"author": "capSilver"
 		},
 		{
 			"id": "VALKRRIAC2",
-			"title": "The Legend of Heroes - Trails of Azure",
+			"title": "Valkyria Chronicles 2",
 			"version": "1.00",
 			"author": "capSilver"
 		},
 		{
 			"id": "VALKYRIAC3",
-			"title": "The Warriors",
+			"title": "Valkyria Chronicles 3",
 			"version": "1.00",
 			"author": "capSilver"
 		},
 		{
-			"id": "XMENLEGENDS2ROAY",
-			"title": "TOCA - Race Driver 2",
+			"id": "XMENLEGENDS2ROA",
+			"title": "X-Men Legends II - Rise of Apocalypse",
 			"version": "1.00",
 			"author": "capSilver"
 		},
@@ -2005,6 +2006,42 @@
 			"title": "Prince of Persia: The Forgotten Sands",
 			"version": "1.00",
 			"author": "MoonshineIndustries"
+		},
+		{
+			"id": "CRASHBASHDU",
+			"title": "Crash Bash",
+			"version": "1.00",
+			"author": "ElDuniels"
+		},
+		{
+			"id": "ISSPROEVODU",
+			"title": "ISS Pro Evolution",
+			"version": "1.00",
+			"author": "ElDuniels"
+		},
+		{
+			"id": "MEDIEVILIIDU",
+			"title": "Medievil II",
+			"version": "1.00",
+			"author": "ElDuniels"
+		},
+		{
+			"id": "RATCHECLANKSIZEMATTERSDU",
+			"title": "Ratchet Clank Size Matters",
+			"version": "1.00",
+			"author": "ElDuniels"
+		},
+		{
+			"id": "SECRETAGENTCLANKDU",
+			"title": "Secret Agent Clank",
+			"version": "1.00",
+			"author": "ElDuniels"
+		},
+		{
+			"id": "SWFORCEDU",
+			"title": "Stars Wars The Force Unleashed",
+			"version": "1.00",
+			"author": "ElDuniels"
 		}
 	]
 }
