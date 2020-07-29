@@ -11,7 +11,8 @@
 		"Gaardus",
 		"capSilver",
 		"MoonshineIndustries",
-		"ElDuniels"
+		"ElDuniels",
+		"Swervito"
 	],
 	"content": [
 		{
@@ -2048,6 +2049,84 @@
 			"title": "Stars Wars The Force Unleashed",
 			"version": "1.00",
 			"author": "ElDuniels"
+		},
+		{
+			"id": "AC_BLOODLINES",
+			"title": "Assassins Creed - Bloodlines",
+			"version": "1.00",
+			"author": "Swervito"
+		},
+		{
+			"id": "GOW_COFOLYMPUS",
+			"title": "God of War - Chains of Olympus",
+			"version": "1.00",
+			"author": "Swervito"
+		},
+		{
+			"id": "GOW_GOFSPARTA",
+			"title": "God of War - Ghost of Sparta",
+			"version": "1.00",
+			"author": "Swervito"
+		},
+		{
+			"id": "GTA_LIBERTYCS",
+			"title": "Grand Theft Auto - Liberty City Stories",
+			"version": "1.00",
+			"author": "Swervito"
+		},
+		{
+			"id": "GTA_VICECS",
+			"title": "Grand Theft Auto - Vice City Stories",
+			"version": "1.00",
+			"author": "Swervito"
+		},
+		{
+			"id": "KH_BBSLEEP",
+			"title": "Kingdom Hearts - Birth by Sleep",
+			"version": "1.00",
+			"author": "Swervito"
+		},
+		{
+			"id": "MH2",
+			"title": "Manhunt 2",
+			"version": "1.00",
+			"author": "Swervito"
+		},
+		{
+			"id": "SDVSR06",
+			"title": "SmackDown Vs Raw 2006",
+			"version": "1.00",
+			"author": "Swervito"
+		},
+		{
+			"id": "SDVSR07",
+			"title": "SmackDown Vs Raw 2007",
+			"version": "1.00",
+			"author": "Swervito"
+		},
+		{
+			"id": "SDVSR09",
+			"title": "SmackDown Vs Raw 2009",
+			"version": "1.00",
+			"author": "Swervito"
+		},
+		{
+			"id": "SPIDERMAN2",
+			"title": "Spiderman 2",
+			"version": "1.00",
+			"author": "Swervito"
+		},
+		{
+			"id": "SW_BF2",
+			"title": "Star Wars - BattleFront 2",
+			"version": "1.00",
+			"author": "Swervito"
+		},
+		{
+			"id": "SW_BFSQUAD",
+			"title": "Star Wars - Battlefront Renegade Squadron",
+			"version": "1.00",
+			"author": "Swervito"
 		}
 	]
 }
