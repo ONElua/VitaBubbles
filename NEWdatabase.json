@@ -1278,12 +1278,24 @@
 		{
 			"id": "7THDRAGON2020",
 			"title": "7th Dragon 2020",
-			"version": "1.00",
+			"version": "1.01",
 			"author": "Gaardus"
 		},
 		{
 			"id": "BREATHFIREIII3",
 			"title": "Breath of Fire III",
+			"version": "1.00",
+			"author": "Gaardus"
+		},
+		{
+			"id": "BLACKROCK",
+			"title": "Black Rock Shooter - The Game",
+			"version": "1.00",
+			"author": "Gaardus"
+		},
+		{
+			"id": "BLADEDANCER",
+			"title": "Blade Dancer: Lineage of Light",
 			"version": "1.00",
 			"author": "Gaardus"
 		},
@@ -1331,6 +1343,12 @@
 			"author": "Gaardus"
 		},
 		{
+			"id": "FFIII2",
+			"title": "Final Fantasy III",
+			"version": "1.00",
+			"author": "Gaardus"
+		},
+		{
 			"id": "GRANDKNIGHTSHISTORY",
 			"title": "Grand Knights History",
 			"version": "1.00",
@@ -1349,8 +1367,26 @@
 			"author": "Gaardus"
 		},
 		{
+			"id": "INVIZIMALS",
+			"title": "InviZimals",
+			"version": "1.00",
+			"author": "Gaardus"
+		},
+		{
+			"id": "JEANNEDARC2",
+			"title": "Jeanne d'Arc",
+			"version": "1.00",
+			"author": "Gaardus"
+		},
+		{
 			"id": "KNIGHTNIGHT2",
 			"title": "Knights in the Nightmare",
+			"version": "1.00",
+			"author": "Gaardus"
+		},
+		{
+			"id": "MFCDX",
+			"title": "Mighty Flip Champs! DX",
 			"version": "1.00",
 			"author": "Gaardus"
 		},
@@ -1363,7 +1399,7 @@
 		{
 			"id": "PANGYA",
 			"title": "Pangya: Fantasy Golf",
-			"version": "1.00",
+			"version": "1.01",
 			"author": "Gaardus"
 		},
 		{
@@ -1390,6 +1426,11 @@
 			"version": "1.00",
 			"author": "Gaardus"
 		},
+			"id": "PERSONA3P",
+			"title": "Persona 3 Portable",
+			"version": "1.00",
+			"author": "Gaardus"
+		},
 		{
 			"id": "RIVIERA",
 			"title": "Riviera - The Promised Land",
@@ -1405,6 +1446,27 @@
 		{
 			"id": "SPACEINVADERSEXTREME",
 			"title": "Space Invaders Extreme",
+			"version": "1.00",
+			"author": "Gaardus"
+		},
+			"id": "TITS",
+			"title": "The Legend of Heroes: Trails in the Sky",
+			"version": "1.00",
+			"author": "Gaardus"
+		},
+			"id": "TITSSC1",
+			"title": "The Legend of Heroes: Trails in the Sky - Disc 1",
+			"version": "1.00",
+			"author": "Gaardus"
+		},
+			"id": "TITSSC2",
+			"title": "The Legend of Heroes: Trails in the Sky - Disc 2",
+			"version": "1.00",
+			"author": "Gaardus"
+		},
+		},
+			"id": "VALHALLAKNIGHTS",
+			"title": "Valhalla Knights",
 			"version": "1.00",
 			"author": "Gaardus"
 		},
