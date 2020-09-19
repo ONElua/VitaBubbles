@@ -1426,6 +1426,7 @@
 			"version": "1.00",
 			"author": "Gaardus"
 		},
+		{
 			"id": "PERSONA3P",
 			"title": "Persona 3 Portable",
 			"version": "1.00",
@@ -1449,22 +1450,25 @@
 			"version": "1.00",
 			"author": "Gaardus"
 		},
+		{
 			"id": "TITS",
 			"title": "The Legend of Heroes: Trails in the Sky",
 			"version": "1.00",
 			"author": "Gaardus"
 		},
+		{
 			"id": "TITSSC1",
 			"title": "The Legend of Heroes: Trails in the Sky - Disc 1",
 			"version": "1.00",
 			"author": "Gaardus"
 		},
+		{
 			"id": "TITSSC2",
 			"title": "The Legend of Heroes: Trails in the Sky - Disc 2",
 			"version": "1.00",
 			"author": "Gaardus"
 		},
-		},
+		{
 			"id": "VALHALLAKNIGHTS",
 			"title": "Valhalla Knights",
 			"version": "1.00",
