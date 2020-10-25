@@ -12,7 +12,8 @@
 		"capSilver",
 		"MoonshineIndustries",
 		"ElDuniels",
-		"Swervito"
+		"Swervito",
+		"Rockstock7"
 	],
 	"content": [
 		{
@@ -2199,6 +2200,12 @@
 			"title": "Star Wars - Battlefront Renegade Squadron",
 			"version": "1.00",
 			"author": "Swervito"
+		},
+		{
+			"id": "CRASHBAMDICOOT3IN1",
+			"title": "Crash Bandicoot (3-in-1)",
+			"version": "1.00",
+			"author": "Rockstock7"
 		}
 	]
 }
