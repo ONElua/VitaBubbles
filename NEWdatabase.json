@@ -13,7 +13,8 @@
 		"MoonshineIndustries",
 		"ElDuniels",
 		"Swervito",
-		"Rockstock7"
+		"Rockstock7",
+		"GAD__Alexander"
 	],
 	"content": [
 		{
@@ -2250,6 +2251,36 @@
 			"title": "Crash Bandicoot (3-in-1)",
 			"version": "1.00",
 			"author": "Rockstock7"
+		},
+		{
+			"id": "GTURISMO1",
+			"title": "Gran Turismo 1",
+			"version": "1.00",
+			"author": "GAD__Alexander"
+		},
+		{
+			"id": "GTURISMO1JAP",
+			"title": "Gran Turismo 1 Jap",
+			"version": "1.00",
+			"author": "GAD__Alexander"
+		},
+		{
+			"id": "GTURISMO2JAP",
+			"title": "Gran Turismo 2 Jap",
+			"version": "1.00",
+			"author": "GAD__Alexander"
+		},
+		{
+			"id": "GTURISMO2",
+			"title": "Gran Turismo 2",
+			"version": "1.00",
+			"author": "GAD__Alexander"
+		},
+		{
+			"id": "GTURISMOPSP",
+			"title": "Gran Turismo PSP",
+			"version": "1.00",
+			"author": "GAD__Alexander"
 		}
 	]
 }
