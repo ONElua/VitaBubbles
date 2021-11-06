@@ -50,6 +50,7 @@ Thanks to capSilver for sharing his resources.<br>
 Thanks to MoonshineIndustries for sharing his resources.<br>
 Thanks to Swervito for sharing his resources.<br>
 Thanks to Rockstock7 for sharing his resources.<br>
+Thanks to GAD__Alexander for sharing his resources.<br>
 
 ## Donation ##
 In case you want to support the work of the team on the vita, you can always donate for some coffee. Any amount is highly appreciated:
