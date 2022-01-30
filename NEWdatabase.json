@@ -14,7 +14,8 @@
 		"ElDuniels",
 		"Swervito",
 		"Rockstock7",
-		"GAD__Alexander"
+		"GAD__Alexander",
+		"setasorcer"
 	],
 	"content": [
 		{
@@ -2281,6 +2282,42 @@
 			"title": "Gran Turismo PSP",
 			"version": "1.00",
 			"author": "GAD__Alexander"
+		},
+		{
+			"id": "IDOLMASTERPERFECTSUN",
+			"title": "IDOLMASTER SP PERFECT SUN",
+			"version": "1.00",
+			"author": "setasorcer"
+		},
+		{
+			"id": "INITIALDSTREETSTAGE",
+			"title": "INITIALD STREET STAGE",
+			"version": "1.00",
+			"author": "setasorcer"
+		},
+		{
+			"id": "KEIONHOUKAGOLIVE",
+			"title": "K-ON! Houkago Live!!",
+			"version": "1.00",
+			"author": "setasorcer"
+		},
+		{
+			"id": "PARODIUSPORTABLE",
+			"title": "PARO_ PORTABLE",
+			"version": "1.00",
+			"author": "setasorcer"
+		},
+		{
+			"id": "SUZUMIYAHARUHINOYAKUSOKU",
+			"title": "The Promise of Haruhi Suzumiya",
+			"version": "1.00",
+			"author": "setasorcer"
+		},
+		{
+			"id": "TORADORAPORTABLE",
+			"title": "TORADORAP!",
+			"version": "1.00",
+			"author": "setasorcer"
 		}
 	]
 }
