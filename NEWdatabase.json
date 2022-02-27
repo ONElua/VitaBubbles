@@ -1201,6 +1201,13 @@
 			"author": "Belickade"
 		},
 		{
+			"id": "YSARK",
+			"title": "Ys VI: The Ark Of Napishtim Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
+		},
+		{
 			"id": "HOKUTONOKENRAOGAIDENTENNOHAO",
 			"title": "Hokuto no Ken - Rao Gaiden - Ten no Hao",
 			"version": "1.00",
@@ -1349,12 +1356,6 @@
 		{
 			"id": "DJMAXP3",
 			"title": "DJMax Portable 3",
-			"version": "1.00",
-			"author": "Gaardus"
-		},
-		{
-			"id": "DRAGONEERSARIAALT",
-			"title": "Dragoneer's Aria",
 			"version": "1.00",
 			"author": "Gaardus"
 		},
