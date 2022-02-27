@@ -1002,13 +1002,6 @@
 			"author": "Belickade"
 		},
 		{
-			"id": "MEGAMAN8PS1RETRO",
-			"title": "Mega Man 8 PS1 Retro",
-			"version": "1.00",
-			"manual": "true",
-			"author": "Belickade"
-		},
-		{
 			"id": "MLEGENDS1PS1RETRO",
 			"title": "Mega Man Legends 1 PS1 Retro",
 			"version": "1.00",
@@ -1224,6 +1217,13 @@
 		{
 			"id": "YSI_IICHRONICLES",
 			"title": "Ys I & II Chronicles Retro",
+			"version": "1.00",
+			"manual": "true",
+			"author": "Belickade"
+		},
+		{
+			"id": "MM8RETRO",
+			"title": "Megaman 8 Retro",
 			"version": "1.00",
 			"manual": "true",
 			"author": "Belickade"
