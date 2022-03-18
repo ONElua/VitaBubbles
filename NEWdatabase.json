@@ -2321,7 +2321,7 @@
 		{
 			"id": "IDOLMASTERPERFECTSUN",
 			"title": "IDOLMASTER SP PERFECT SUN",
-			"version": "1.00",
+			"version": "1.01",
 			"author": "setasorcer"
 		},
 		{
@@ -2351,6 +2351,30 @@
 		{
 			"id": "TORADORAPORTABLE",
 			"title": "TORADORAP!",
+			"version": "1.00",
+			"author": "setasorcer"
+		},
+		{
+			"id": "AIR",
+			"title": "AIR",
+			"version": "1.00",
+			"author": "setasorcer"
+		},
+		{
+			"id": "EVER17",
+			"title": "Ever17 -the out of infinity-",
+			"version": "1.00",
+			"author": "setasorcer"
+		},
+		{
+			"id": "FATEUPPER",
+			"title": "Fate Tiger Colosseum Upper",
+			"version": "1.00",
+			"author": "setasorcer"
+		},
+		{
+			"id": "NAYUTA",
+			"title": "The Legend of Nayuta: Boundless Trails",
 			"version": "1.00",
 			"author": "setasorcer"
 		}
