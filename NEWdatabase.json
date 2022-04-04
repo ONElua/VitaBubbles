@@ -2333,7 +2333,7 @@
 		{
 			"id": "KEIONHOUKAGOLIVE",
 			"title": "K-ON! Houkago Live!!",
-			"version": "1.00",
+			"version": "2.00",
 			"author": "setasorcer"
 		},
 		{
@@ -2345,13 +2345,13 @@
 		{
 			"id": "SUZUMIYAHARUHINOYAKUSOKU",
 			"title": "The Promise of Haruhi Suzumiya",
-			"version": "1.00",
+			"version": "2.00",
 			"author": "setasorcer"
 		},
 		{
 			"id": "TORADORAPORTABLE",
 			"title": "TORADORAP!",
-			"version": "1.00",
+			"version": "2.00",
 			"author": "setasorcer"
 		},
 		{
@@ -2375,6 +2375,18 @@
 		{
 			"id": "NAYUTA",
 			"title": "The Legend of Nayuta: Boundless Trails",
+			"version": "1.00",
+			"author": "setasorcer"
+		},
+		{
+			"id": "PARASITEEVE",
+			"title": "Parasite Eve",
+			"version": "1.00",
+			"author": "setasorcer"
+		},
+		{
+			"id": "VIBRIBBON",
+			"title": "Vib-Ribbon",
 			"version": "1.00",
 			"author": "setasorcer"
 		}
