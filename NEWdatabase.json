@@ -15,7 +15,8 @@
 		"Swervito",
 		"Rockstock7",
 		"GAD__Alexander",
-		"setasorcer"
+		"setasorcer",
+		"Ichigo7S"
 	],
 	"content": [
 		{
@@ -2395,6 +2396,12 @@
 			"title": "Vib-Ribbon",
 			"version": "1.00",
 			"author": "setasorcer"
+		},
+		{
+			"id": "GOLDENEYE007",
+			"title": "Golden Eye 007",
+			"version": "1.00",
+			"author": "Ichigo7S"
 		}
 	]
 }
