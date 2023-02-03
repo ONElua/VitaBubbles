@@ -2400,6 +2400,7 @@
 		{
 			"id": "GOLDENEYE007",
 			"title": "Golden Eye 007",
+			"icon0": "GOLDENEYE007.png",
 			"version": "1.00",
 			"author": "Ichigo7S"
 		}
