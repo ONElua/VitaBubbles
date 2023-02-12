@@ -2,6 +2,7 @@
 	"authors": [
 		"Belickade",
 		"capSilver",
+		"Drazini",
 		"ElDuniels",
 		"Gaardus",
 		"GAD__Alexander",
@@ -1266,6 +1267,55 @@
 			"title": "ZHP - Unlosing Ranger VS Darkdeath Evilman",
 			"id": "ZHPUNLOSINGRANGER",
 			"icon0": "ZHPUNLOSINGRANGER.jpg",
+			"version": "1.00"
+		},
+		{
+			"author": "Drazini",
+			"title": "persona (the first one)",
+			"id": "PERSONATHEFIRSTONE",
+			"icon0": "PERSONATHEFIRSTONE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Drazini",
+			"title": "persona 2 eternal punishment (PSP (fan translation))",
+			"id": "PERSONA2ETERNALPUNISHMENTFANTRANSLATION",
+			"icon0": "PERSONA2ETERNALPUNISHMENTFANTRANSLATION.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Drazini",
+			"title": "persona 2 eternal punishment (PSX)",
+			"id": "PERSONA2ETERNALPUNISHMENTPSX",
+			"icon0": "PERSONA2ETERNALPUNISHMENTPSX.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Drazini",
+			"title": "persona 2 innocent sin",
+			"id": "PERSONA2INNOCENTSIN",
+			"icon0": "PERSONA2INNOCENTSIN.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Drazini",
+			"title": "persona 2 innocent sin (alt)",
+			"id": "PERSONA2INNOCENTSINALT",
+			"icon0": "PERSONA2INNOCENTSINALT.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Drazini",
+			"title": "persona 3 portable",
+			"id": "PERSONA3PORTABLE",
+			"icon0": "PERSONA3PORTABLE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Drazini",
+			"title": "xenogears",
+			"id": "XENOGEARSPSP",
+			"icon0": "XENOGEARSPSP.png",
 			"version": "1.00"
 		},
 		{
