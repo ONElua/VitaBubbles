@@ -10,6 +10,7 @@
 		"Ichigo7S",
 		"Jeffry Avila",
 		"libardomm",
+		"Maki mioda",
 		"MoonshineIndustries",
 		"Quasinconsistent",
 		"Rockstock7",
@@ -2200,6 +2201,566 @@
 			"title": "Persona Portable 3",
 			"id": "PERSONA3",
 			"icon0": "PERSONA3.jpg",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Agarest Senki Mariage",
+			"id": "AGARESTSENKIMARIAGE",
+			"icon0": "AGARESTSENKIMARIAGE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Alundra",
+			"id": "ALUNDRAMAKI",
+			"icon0": "ALUNDRAMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Assassin_s Creed Bloodlines",
+			"id": "ASSASSINCREEDBLOODLINES",
+			"icon0": "ASSASSINCREEDBLOODLINES.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Chrono Cross",
+			"id": "CHRONOCROSSMAKI",
+			"icon0": "CHRONOCROSSMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Conception",
+			"id": "CONCEPTION",
+			"icon0": "CONCEPTION.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Corpse Party",
+			"id": "CORPSEPARTYMAKI",
+			"icon0": "CORPSEPARTYMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Corpse Party - Book of Shadows",
+			"id": "CORPSEPARTYBOOKOFSHADOWS",
+			"icon0": "CORPSEPARTYBOOKOFSHADOWS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Crash Bandicoot",
+			"id": "CRASHBANDICOOTMAKI",
+			"icon0": "CRASHBANDICOOTMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Crash Bandicoot 2",
+			"id": "CRASHBANDICOOT2",
+			"icon0": "CRASHBANDICOOT2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Crash Bandicoot 3",
+			"id": "CRASHBANDICOOT3",
+			"icon0": "CRASHBANDICOOT3.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Crush",
+			"id": "CRUSH",
+			"icon0": "CRUSH.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Cube",
+			"id": "CUBE",
+			"icon0": "CUBE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Devil Dice",
+			"id": "DEVILDICE",
+			"icon0": "DEVILDICE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Disgaea - Afternoon of Darkness",
+			"id": "DISGAEAAFTERNOONOFDARKNESS",
+			"icon0": "DISGAEAAFTERNOONOFDARKNESS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Disgaea - Infinite",
+			"id": "DISGAEAINFINITE",
+			"icon0": "DISGAEAINFINITE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Disgaea 2 - Dark Hero Days",
+			"id": "DISGAEA2DARKHERODAYS",
+			"icon0": "DISGAEA2DARKHERODAYS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Dissidia - Final Fantasy",
+			"id": "DISSIDIAFINALFANTASY",
+			"icon0": "DISSIDIAFINALFANTASY.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Dissidia 2 - Duodeceim",
+			"id": "DISSIDIA2DUODECIM",
+			"icon0": "DISSIDIA2DUODECIM.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "DOA Paradise",
+			"id": "DOAPARADISE",
+			"icon0": "DOAPARADISE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Driver",
+			"id": "DRIVER",
+			"icon0": "DRIVER.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Driver 2",
+			"id": "DRIVER2",
+			"icon0": "DRIVER2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Exit",
+			"id": "EXIT",
+			"icon0": "EXIT.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Exit 2",
+			"id": "EXIT2",
+			"icon0": "EXIT2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Fear Effect",
+			"id": "FEAREFFECTMAKI",
+			"icon0": "FEAREFFECTMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Fear Effect 2",
+			"id": "FEAREFFECT2MAKI",
+			"icon0": "FEAREFFECT2MAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Final Fantasy",
+			"id": "FINALFANTASY",
+			"icon0": "FINALFANTASY.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Final Fantasy II",
+			"id": "FINALFANTASYII",
+			"icon0": "FINALFANTASYII.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Final Fantasy III",
+			"id": "FINALFANTASYIII",
+			"icon0": "FINALFANTASYIII.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Final Fantasy IV The Complete Collection",
+			"id": "FINALFANTASYIVCC",
+			"icon0": "FINALFANTASYIVCC.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Final Fantasy IX",
+			"id": "FINALFANTASYIXMAKI",
+			"icon0": "FINALFANTASYIXMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Final Fantasy Tactics - The War of The Lions",
+			"id": "FFTTWARLIONS",
+			"icon0": "FFTTWARLIONS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Final Fantasy Type-0",
+			"id": "FINALFANTASYTYPE0",
+			"icon0": "FINALFANTASYTYPE0.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Final Fantasy VII",
+			"id": "FINALFANTASYVIIMAKI",
+			"icon0": "FINALFANTASYVIIMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Final Fantasy VII - Crisis Core",
+			"id": "FINALFANTASYVIICC",
+			"icon0": "FINALFANTASYVIICC.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Final Fantasy VIII",
+			"id": "FINALFANTASYVIIIMAKI",
+			"icon0": "FINALFANTASYVIIIMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "God of War - Chains of Olympus",
+			"id": "GODOFWARCHAINSOFOLYMPUS",
+			"icon0": "GODOFWARCHAINSOFOLYMPUS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "God of War - Ghost of Sparta",
+			"id": "GODOFWARGHOSTOFSPARTA",
+			"icon0": "GODOFWARGHOSTOFSPARTA.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Grandia",
+			"id": "GRANDIAMAKI",
+			"icon0": "GRANDIAMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Half-Minute Hero",
+			"id": "HALF-MINUTEHEROMAKI",
+			"icon0": "HALF-MINUTEHEROMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Ikki Tousen - Eloquent Fist",
+			"id": "IKKITOUSENELOQUENTFIST",
+			"icon0": "IKKITOUSENELOQUENTFIST.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Ikki Tousen - Xross Impact",
+			"id": "IKKITOUSENXROSSIMPACT",
+			"icon0": "IKKITOUSENXROSSIMPACT.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Jeanne D_Arc",
+			"id": "JEANNED_ARC",
+			"icon0": "JEANNED_ARC.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Kingdom Hearts - Birth by Sleep",
+			"id": "KINGDOMHEARTS-BIRTHBYSLEEP",
+			"icon0": "KINGDOMHEARTS-BIRTHBYSLEEP.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Kokoro Connect - Random Predictions",
+			"id": "KOKOROCONNECT-RANDOMPREDICTIONS",
+			"icon0": "KOKOROCONNECT-RANDOMPREDICTIONS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Kula World",
+			"id": "KULAWORLD",
+			"icon0": "KULAWORLD.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Kurushi Finale",
+			"id": "KURUSHIFINALE",
+			"icon0": "KURUSHIFINALE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "LEGO Batman",
+			"id": "LEGOBATMAN",
+			"icon0": "LEGOBATMAN.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "LEGO Harry Potter Years 1-4",
+			"id": "LEGOHARRYPOTTERYEARS14",
+			"icon0": "LEGOHARRYPOTTERYEARS14.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "LEGO Indiana Jones - The Original Adventures",
+			"id": "LEGOINDIANAJONESADV",
+			"icon0": "LEGOINDIANAJONESADV.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "LEGO Pirates of the Caribbean The Video Game",
+			"id": "LEGOPIRATES",
+			"icon0": "LEGOPIRATES.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Lego Star Wars II - The Original Trilogy",
+			"id": "LEGOSTARWARSIITHEORIGINAL",
+			"icon0": "LEGOSTARWARSIITHEORIGINAL.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "LocoRoco",
+			"id": "LOCOROCOMAKI",
+			"icon0": "LOCOROCOMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "LocoRoco 2",
+			"id": "LOCOROCO2MAKI",
+			"icon0": "LOCOROCO2MAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Lode Runner",
+			"id": "LODERUNNER",
+			"icon0": "LODERUNNER.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Metal Gear - Digital Graphic Novel",
+			"id": "METALGEARDGNOVEL",
+			"icon0": "METALGEARDGNOVEL.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Metal Gear - Peace Walker",
+			"id": "METALGEARPW",
+			"icon0": "METALGEARPW.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Metal Gear Acid",
+			"id": "METALGEARACID",
+			"icon0": "METALGEARACID.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Metal Gear Acid 2",
+			"id": "METALGEARACID2",
+			"icon0": "METALGEARACID2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Metal Gear Solid",
+			"id": "METALGEARSOLID",
+			"icon0": "METALGEARSOLID.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Metal Gear Solid Portable Ops",
+			"id": "METALGEARSOLIDPORTABLEOPS",
+			"icon0": "METALGEARSOLIDPORTABLEOPS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Metal Slug Anthology",
+			"id": "METALSLUGANTHOLOGY",
+			"icon0": "METALSLUGANTHOLOGY.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Metal Slug XX",
+			"id": "METALSLUGXX",
+			"icon0": "METALSLUGXX.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Micro Machines V3",
+			"id": "MICROMACHINESV3",
+			"icon0": "MICROMACHINESV3.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Mr Domino",
+			"id": "MRDOMINO",
+			"icon0": "MRDOMINO.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "N+",
+			"id": "N+",
+			"icon0": "N+.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Net Yaroze",
+			"id": "NETYAROZE",
+			"icon0": "NETYAROZE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Oddworld - Abe_s Odyssey",
+			"id": "ODDWORLDAODYSSEY",
+			"icon0": "ODDWORLDAODYSSEY.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "PaRappa the Rapper",
+			"id": "PARAPPARAPPER",
+			"icon0": "PARAPPARAPPER.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Parasite Eve",
+			"id": "PARASITEEVEMAKI",
+			"icon0": "PARASITEEVEMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Parasite Eve 2",
+			"id": "PARASITEEVE2",
+			"icon0": "PARASITEEVE2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Patapon",
+			"id": "PATAPONMAKI",
+			"icon0": "PATAPONMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Patapon 2",
+			"id": "PATAPON2MAKI",
+			"icon0": "PATAPON2MAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Patapon 3",
+			"id": "PATAPON3MAKI",
+			"icon0": "PATAPON3MAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Persona",
+			"id": "PERSONAMAKI",
+			"icon0": "PERSONAMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Persona 2 - Innocent Sin",
+			"id": "PERSONA2INNOCENTSINMAKI",
+			"icon0": "PERSONA2INNOCENTSINMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Persona 3 Portable",
+			"id": "PERSONA3PORTABLEMAKI",
+			"icon0": "PERSONA3PORTABLEMAKI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Prinny - Can I Really Be The Hero",
+			"id": "PRINNYCANIREALLYTHEHERO",
+			"icon0": "PRINNYCANIREALLYTHEHERO.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Prinny 2 - Dawn of Operation Panties Dood",
+			"id": "PRINNY2DAWNOFOPERATION",
+			"icon0": "PRINNY2DAWNOFOPERATION.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Queens Blade - Spiral Chaos",
+			"id": "QUEENSBLADESPIRALCHAOS",
+			"icon0": "QUEENSBLADESPIRALCHAOS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Queens Gate - Spiral Chaos",
+			"id": "QUEENSGATESPIRALCHAOS",
+			"icon0": "QUEENSGATESPIRALCHAOS.png",
 			"version": "1.00"
 		},
 		{
