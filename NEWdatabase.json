@@ -16,6 +16,7 @@
 		"Rockstock7",
 		"Samir2298",
 		"setasorcer",
+		"SlyAceZeta",
 		"Swervito",
 		"Takuhii",
 		"Ultrameyda"
@@ -3244,6 +3245,13 @@
 			"title": "Vib-Ribbon",
 			"id": "VIBRIBBON",
 			"icon0": "VIBRIBBON.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SlyAceZeta",
+			"title": "Ace Combat X - Skies of Deception",
+			"id": "ACECOMBATX",
+			"icon0": "ACECOMBATX.jpg",
 			"version": "1.00"
 		},
 		{
