@@ -3,6 +3,7 @@
 		"Belickade",
 		"capSilver",
 		"Drazini",
+		"Diegorocha2007",
 		"ElDuniels",
 		"Gaardus",
 		"GAD__Alexander",
@@ -1318,6 +1319,643 @@
 			"title": "xenogears",
 			"id": "XENOGEARSPSP",
 			"icon0": "XENOGEARSPSP.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Alone in the dark",
+			"id": "ALONEINTHEDARK",
+			"icon0": "ALONEINTHEDARK.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Ape Escape On The Loose",
+			"id": "APEESCAPELOOSE",
+			"icon0": "APEESCAPELOOSE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Burnout Dominator",
+			"id": "BORNOUTDOMINATOR",
+			"icon0": "BORNOUTDOMINATOR.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Burnout Legends",
+			"id": "BORNOUTLEGENDS",
+			"icon0": "BORNOUTLEGENDS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Castlevania Symphony of the Night",
+			"id": "CASTLEVANIASOTNN",
+			"icon0": "CASTLEVANIASOTNN.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Castlevania The Dracula X Chronicles",
+			"id": "CASTLEVANIADRACULAXCH",
+			"icon0": "CASTLEVANIADRACULAXCH.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Chrono Cross",
+			"id": "CHRONOCROSSROCHA",
+			"icon0": "CHRONOCROSSROCHA.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Crazy Taxi Fare Wars",
+			"id": "CRAZYTAXIFWARS",
+			"icon0": "CRAZYTAXIFWARS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Dantes inferno",
+			"id": "DANTESINFERNOO",
+			"icon0": "DANTESINFERNOO.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Daxter",
+			"id": "DAXTERR",
+			"icon0": "DAXTERR.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Digimon Adventure",
+			"id": "DIGIMONADVENTURE",
+			"icon0": "DIGIMONADVENTURE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Digimon World Re Digitize",
+			"id": "DIGIMONWORLDREDIG",
+			"icon0": "DIGIMONWORLDREDIG.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Dino Crisis",
+			"id": "DINOCRISISS1",
+			"icon0": "DINOCRISISS1.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Dino Crisis 2",
+			"id": "DINOCRISISS2",
+			"icon0": "DINOCRISISS2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Final Fantasy III",
+			"id": "FINALFANTASYY3",
+			"icon0": "FINALFANTASYY3.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Final Fantasy IV",
+			"id": "FINALFANTASYY4",
+			"icon0": "FINALFANTASYY4.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Final Fantasy IX",
+			"id": "FINALFANTASYY9",
+			"icon0": "FINALFANTASYY9.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Final Fantasy Type 0",
+			"id": "FINALFANTASYYTYPEO0",
+			"icon0": "FINALFANTASYYTYPEO0.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Final Fantasy VII",
+			"id": "FINALFANTASYY7",
+			"icon0": "FINALFANTASYY7.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Final Fantasy VII Crisis Core",
+			"id": "FINALFANTASYY7CRISISCORE",
+			"icon0": "FINALFANTASYY7CRISISCORE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "God of War Chains of Olympus",
+			"id": "GOWCHAINSOLYMP",
+			"icon0": "GOWCHAINSOLYMP.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "God of War Ghost of Sparta",
+			"id": "GOWSPARTAPSP",
+			"icon0": "GOWSPARTAPSP.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Gta Chinatown Wars",
+			"id": "GTACHINATOWNSWARSS",
+			"icon0": "GTACHINATOWNSWARSS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Gta Liberty city stories",
+			"id": "GTALIBERTYCISTORIES",
+			"icon0": "GTALIBERTYCISTORIES.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Gta Vice city stories",
+			"id": "GTAVICECITYS",
+			"icon0": "GTAVICECITYS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Hatsune Miku Project DIVA",
+			"id": "HATSUNEMIKUPDIVA",
+			"icon0": "HATSUNEMIKUPDIVA.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Hatsune Miku Project DIVA 2nd",
+			"id": "HATSUNEMIKUPDIVA2",
+			"icon0": "HATSUNEMIKUPDIVA2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Hatsune Miku Project DIVA Extend",
+			"id": "HATSUNEMIKUPDIVAEXT",
+			"icon0": "HATSUNEMIKUPDIVAEXT.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Jak and Daxter",
+			"id": "JAKANDDAXTERR",
+			"icon0": "JAKANDDAXTERR.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Kingdom Hearts Birth By Sleep",
+			"id": "KINGDOMHEARTSBBSLEEP",
+			"icon0": "KINGDOMHEARTSBBSLEEP.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Legend of Mana",
+			"id": "LEGENDOFMANA",
+			"icon0": "LEGENDOFMANA.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Locoroco",
+			"id": "LOCOLOCOROCO",
+			"icon0": "LOCOLOCOROCO.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Locoroco 2",
+			"id": "LOCOLOCOROCO2",
+			"icon0": "LOCOLOCOROCO2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Locoroco Midnight Carnival",
+			"id": "LOCOLOCOROCOMIDCARNI",
+			"icon0": "LOCOLOCOROCOMIDCARNI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Lumines",
+			"id": "LUMINES",
+			"icon0": "LUMINES.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Lumines 2",
+			"id": "LUMINES2",
+			"icon0": "LUMINES2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Me & My Katamari",
+			"id": "MEMYKKATAMAARI",
+			"icon0": "MEMYKKATAMAARI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Mega Drive Collection",
+			"id": "MEGADRIVETCOLLECTION",
+			"icon0": "MEGADRIVETCOLLECTION.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Megaman maverick hunter x",
+			"id": "MEGAMANMAVERICKHX",
+			"icon0": "MEGAMANMAVERICKHX.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Megaman Powered up",
+			"id": "MEGAMANPOWEREDUP",
+			"icon0": "MEGAMANPOWEREDUP.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Megaman X4",
+			"id": "MEGAMMANX4",
+			"icon0": "MEGAMMANX4.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Megaman X5",
+			"id": "MEGAMMANX5",
+			"icon0": "MEGAMMANX5.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Megaman X6",
+			"id": "MEGAMMANX6",
+			"icon0": "MEGAMMANX6.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Metal Gear Acid",
+			"id": "METTALGEARTACID",
+			"icon0": "METTALGEARTACID.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Metal Gear Acid 2",
+			"id": "METTALGEARTACID2",
+			"icon0": "METTALGEARTACID2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Metal Gear Solid",
+			"id": "METTALGEARTSOLID",
+			"icon0": "METTALGEARTSOLID.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "metal gear solid peace walker",
+			"id": "METTALGEARSOLIDPWALKER",
+			"icon0": "METTALGEARSOLIDPWALKER.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Metal Gear Solid Portable Ops",
+			"id": "METTALGEARSOLIDPORTOPS",
+			"icon0": "METTALGEARSOLIDPORTOPS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Metal Gear Solid VR Missions",
+			"id": "METTALGEARSOLIDVRM",
+			"icon0": "METTALGEARSOLIDVRM.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Midnight Club 3",
+			"id": "MIDNIGHTCLUB3",
+			"icon0": "MIDNIGHTCLUB3.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Midnight Club L.A. Remix",
+			"id": "MIDNIGHTLAREMIX",
+			"icon0": "MIDNIGHTLAREMIX.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Motorstorm Arctic Edge",
+			"id": "MOTORSTORMARTICEDGE",
+			"icon0": "MOTORSTORMARTICEDGE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Need for Speed Underground Rivals",
+			"id": "NFSUNDERGROUNDRIVALS",
+			"icon0": "NFSUNDERGROUNDRIVALS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "NEED FOR SPEED™ Carbon OTC",
+			"id": "NEEDFORSPEEDCARBONOTC",
+			"icon0": "NEEDFORSPEEDCARBONOTC.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "NEED FOR SPEED™ MOST WANTED 5-1-0",
+			"id": "NFSMOSTWANTED510",
+			"icon0": "NFSMOSTWANTED510.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Pac Man Championship Edition",
+			"id": "PACMANCHAMPEDITION",
+			"icon0": "PACMANCHAMPEDITION.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Parasite Eve",
+			"id": "PPARADITTHEEVE",
+			"icon0": "PPARADITTHEEVE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Patapon",
+			"id": "PPATAPPON",
+			"icon0": "PPATAPPON.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Patapon 2",
+			"id": "PPATAPPON2",
+			"icon0": "PPATAPPON2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Patapon 3",
+			"id": "PPATAPPON3",
+			"icon0": "PPATAPPON3.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Persona 3 Portable",
+			"id": "PERSONA3PORT",
+			"icon0": "PERSONA3PORT.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Pico drive",
+			"id": "PICODRIVE",
+			"icon0": "PICODRIVE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Prinny 2",
+			"id": "PPRINNY2",
+			"icon0": "PPRINNY2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Prinny Can i really be the hero",
+			"id": "PRINNYREALLYHERO",
+			"icon0": "PRINNYREALLYHERO.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Puyo Pop Fever",
+			"id": "PUYOPOPFEBER",
+			"icon0": "PUYOPOPFEBER.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Ratchet Clank Size Matters",
+			"id": "RACHETCLANKSMATT",
+			"icon0": "RACHETCLANKSMATT.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Resident Evil 2",
+			"id": "RESIDENTEVILL2",
+			"icon0": "RESIDENTEVILL2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Resident Evil 3 Nemesis",
+			"id": "RESIDENTEVILL3NEM",
+			"icon0": "RESIDENTEVILL3NEM.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Secret agent clank",
+			"id": "SECRETAGEMTCLANK",
+			"icon0": "SECRETAGEMTCLANK.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Silent Hill origins",
+			"id": "SILENTHILLORIGINS",
+			"icon0": "SILENTHILLORIGINS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Silent Hill Shattered Memories",
+			"id": "SILENTHILLSHATT",
+			"icon0": "SILENTHILLSHATT.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Sonic Rivals",
+			"id": "SONICRIVALLS",
+			"icon0": "SONICRIVALLS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Sonic Rivals 2",
+			"id": "SONICRIVALLS2",
+			"icon0": "SONICRIVALLS2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "SplinterCell",
+			"id": "SPLINTERCELL",
+			"icon0": "SPLINTERCELL.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Star Ocean First Departure",
+			"id": "STAROCEANFDEPARTURE",
+			"icon0": "STAROCEANFDEPARTURE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Star Ocean Second Evolution",
+			"id": "STAROCEANSECONDEVO",
+			"icon0": "STAROCEANSECONDEVO.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Star Wars Dark Forces",
+			"id": "STARWARSDARKF",
+			"icon0": "STARWARSDARKF.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Star Wars Elite Squadron",
+			"id": "STARWARSELITES",
+			"icon0": "STARWARSELITES.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Star Wars Lethal Alliance",
+			"id": "STARWARSLETHALALL",
+			"icon0": "STARWARSLETHALALL.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Star Wars Renegade Squadron",
+			"id": "STARWARSRENESQ",
+			"icon0": "STARWARSRENESQ.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Star Wars The Force Unleashed",
+			"id": "STARWARSTHEFORCEUNLES",
+			"icon0": "STARWARSTHEFORCEUNLES.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Street Fighter Alpha 3 MAX",
+			"id": "SFALPHA3MAX",
+			"icon0": "SFALPHA3MAX.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Super Puzzle Fighter 2 turbo",
+			"id": "SUERPUZZLEFIGHTER2TURBO",
+			"icon0": "SUERPUZZLEFIGHTER2TURBO.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Tekken Dark Resurrection",
+			"id": "TEKKENDARKRESURR",
+			"icon0": "TEKKENDARKRESURR.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Test Drive Unlimited",
+			"id": "TESTDRIVEUNLIM",
+			"icon0": "TESTDRIVEUNLIM.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "The 3rd Birthday",
+			"id": "PARASIT3ERDBIRTHDAY",
+			"icon0": "PARASIT3ERDBIRTHDAY.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "The Warriors",
+			"id": "THWWARRIORS",
+			"icon0": "THWWARRIORS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Tony Hawk Project 8",
+			"id": "TONYHAWKPROJECT8",
+			"icon0": "TONYHAWKPROJECT8.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Tony Hawk Underground 2 Remix",
+			"id": "TONYHAWKUNDERG2REMIX",
+			"icon0": "TONYHAWKUNDERG2REMIX.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Ultimate Ghosts n Goblins",
+			"id": "ULTIMATEGHOSTSGOBLINS",
+			"icon0": "ULTIMATEGHOSTSGOBLINS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Diegorocha2007",
+			"title": "Xenogears",
+			"id": "XXENOGEARSS",
+			"icon0": "XXENOGEARSS.png",
 			"version": "1.00"
 		},
 		{
