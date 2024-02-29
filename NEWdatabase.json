@@ -20,7 +20,8 @@
 		"SlyAceZeta",
 		"Swervito",
 		"Takuhii",
-		"Ultrameyda"
+		"Ultrameyda",
+		"SpaceThing"
 	],
 	"content": [
 		{
@@ -4485,6 +4486,139 @@
 			"title": "IS - Internal Section",
 			"id": "ISSECTION",
 			"icon0": "ISSECTION.jpg",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Ace Combat 3",
+			"id": "AC3",
+			"icon0": "AC3.jpg",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Chrono Cross",
+			"id": "CCROSS",
+			"icon0": "CCROSS.jpg",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Chrono Trigger",
+			"id": "CTRIGGER",
+			"icon0": "CTRIGGER.jpg",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Final Fantasy",
+			"id": "FF1",
+			"icon0": "FF1.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Final Fantasy II",
+			"id": "FF2",
+			"icon0": "FF2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Final Fantasy III",
+			"id": "FF3",
+			"icon0": "FF3.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Final Fantasy IV",
+			"id": "FF4",
+			"icon0": "FF4.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Final Fantasy V",
+			"id": "FF5",
+			"icon0": "FF5.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Final Fantasy VI",
+			"id": "FF6",
+			"icon0": "FF6.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Final Fantasy VII",
+			"id": "FF7",
+			"icon0": "FF7.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Final Fantasy VIII",
+			"id": "FF8",
+			"icon0": "FF8.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Final Fantasy IX",
+			"id": "FF9",
+			"icon0": "FF9.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Final Fantasy X",
+			"id": "FF10",
+			"icon0": "FF10.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Mega Man 8",
+			"id": "MM8",
+			"icon0": "MM8.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Phantasy Star Portable",
+			"id": "PSP",
+			"icon0": "PSP.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Phantasy Star Portable 2 infinity",
+			"id": "PSP2I",
+			"icon0": "PSP2I.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Tetris (PSP minis)",
+			"id": "TETRIS",
+			"icon0": "TETRIS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Tomb Raider: Anniversary",
+			"id": "TRANNI",
+			"icon0": "TRANNI.png",
+			"version": "1.00"
+		},
+		{
+			"author": "SpaceThing",
+			"title": "Tomb Raider: Legend",
+			"id": "TRLEG",
+			"icon0": "TRLEG.png",
 			"version": "1.00"
 		}
 	]

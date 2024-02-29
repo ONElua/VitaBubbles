@@ -1368,5 +1368,119 @@
         "title": "Z.H.P. Unlosing Ranger VS Darkdeath Evilman",
         "version": "1.00",
         "author": "Gaardus"
+    },
+    {
+        "id": "AC3",
+        "title": "Ace Combat 3",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "CCROSS",
+        "title": "Chrono Cross",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "CTRIGGER",
+        "title": "Chrono Trigger",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "FF1",
+        "title": "Final Fantasy",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "FF2",
+        "title": "Final Fantasy II",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "FF3",
+        "title": "Final Fantasy III",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "FF4",
+        "title": "Final Fantasy IV",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "FF5",
+        "title": "Final Fantasy V",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "FF6",
+        "title": "Final Fantasy VI",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "FF7",
+        "title": "Final Fantasy VII",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "FF8",
+        "title": "Final Fantasy VIII",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "FF9",
+        "title": "Final Fantasy IX",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "FF10",
+        "title": "Final Fantasy X",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "MM8",
+        "title": "Mega Man 8",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "PSP",
+        "title": "Phantasy Star Portable",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "PSP2I",
+        "title": "Phantasy Star Portable 2 infinity",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "TETRIS",
+        "title": "Tetris (PSP minis)",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "TRANNI",
+        "title": "Tomb Raider: Anniversary",
+        "version": "1.00",
+        "author": "SpaceThing"
+    },
+    {
+        "id": "TRLEG",
+        "title": "Tomb Raider: Legend",
+        "version": "1.00",
+        "author": "SpaceThing"
     }
 ]
