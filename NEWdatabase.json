@@ -3572,6 +3572,139 @@
 			"version": "1.00"
 		},
 		{
+			"author": "Maki mioda",
+			"title": "Soreyuke Buruyanman Portable",
+			"id": "SOREYUKEBURUYANMANPORTABLE",
+			"icon0": "SOREYUKEBURUYANMANPORTABLE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Spyro",
+			"id": "SPYRO",
+			"icon0": "SPYRO.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Spyro 2",
+			"id": "SPYRO2",
+			"icon0": "SPYRO2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Spyro 3",
+			"id": "SPYRO3",
+			"icon0": "SPYRO3.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Suikoden",
+			"id": "SUIKODEN",
+			"icon0": "SUIKODEN.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Suikoden II",
+			"id": "SUIKODENII",
+			"icon0": "SUIKODENII.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Suzumiya Haruhi no Yakusoku",
+			"id": "SUZUMHARUHIYAKUSOKU",
+			"icon0": "SUZUMHARUHIYAKUSOKU.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Syphon Filter",
+			"id": "SYPHONFILTER",
+			"icon0": "SYPHONFILTER.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Syphon Filter 2",
+			"id": "SYPHONFILTER2",
+			"icon0": "SYPHONFILTER2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Syphon Filter 3",
+			"id": "SYPHONFILTER3",
+			"icon0": "SYPHONFILTER3.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Syphon Filter Dark Mirror",
+			"id": "SYPHONFILTERDARKMIRROR",
+			"icon0": "SYPHONFILTERDARKMIRROR.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Syphon Filter Logan_s Shadow",
+			"id": "SYPHONFILTERLOGAN_SSHADOW",
+			"icon0": "SYPHONFILTERLOGAN_SSHADOW.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "The 3rd Birthday",
+			"id": "THE3RDBIRTHDAY",
+			"icon0": "THE3RDBIRTHDAY.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Time Commando",
+			"id": "TIMECOMMANDO",
+			"icon0": "TIMECOMMANDO.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Um Jammer Lammy",
+			"id": "UJAMMELAMMY",
+			"icon0": "UJAMMELAMMY.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Vagrant Story",
+			"id": "VAGRANTSTORY",
+			"icon0": "VAGRANTSTORY.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Valkyrie Profile - Lenneth",
+			"id": "VALKYRIEPROFILE-LENNETH",
+			"icon0": "VALKYRIEPROFILE-LENNETH.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Wild 9",
+			"id": "WILD9",
+			"icon0": "WILD9.png",
+			"version": "1.00"
+		},
+		{
+			"author": "Maki mioda",
+			"title": "Xenogears",
+			"id": "XENOGEARSSS",
+			"icon0": "XENOGEARSSS.png",
+			"version": "1.00"
+		},
+		{
 			"author": "MoonshineIndustries",
 			"title": "Prince of Persia: Revelations",
 			"id": "POPREV",
@@ -4619,6 +4752,13 @@
 			"title": "Tomb Raider: Legend",
 			"id": "TRLEG",
 			"icon0": "TRLEG.png",
+			"version": "1.00"
+		},
+		{
+			"author": "PixelDough",
+			"title": "Bejeweled 2",
+			"id": "BEJEWELED2",
+			"icon0": "BEJEWELED2.png",
 			"version": "1.00"
 		}
 	]
