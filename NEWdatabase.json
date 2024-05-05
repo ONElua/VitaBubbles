@@ -22,7 +22,8 @@
 		"Takuhii",
 		"Ultrameyda",
 		"SpaceThing",
-		"PixelDough"
+		"PixelDough",
+		"azurefehr"
 	],
 	"content": [
 		{
@@ -4760,6 +4761,132 @@
 			"title": "Bejeweled 2",
 			"id": "BEJEWELED2",
 			"icon0": "BEJEWELED2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "EINHANDER",
+			"id": "EINHANDERR",
+			"icon0": "EINHANDERR.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "FinalFantasyIV",
+			"id": "FINALFANTASYIV",
+			"icon0": "FINALFANTASYIV.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "FinalFantasyTactics",
+			"id": "FINALFANTASYTACTICS",
+			"icon0": "FINALFANTASYTACTICS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "FinalFantasyVII",
+			"id": "FINAL_FANTASYVII",
+			"icon0": "FINAL_FANTASYVII.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "FinalFantasyVIII",
+			"id": "FINAL_FANTASYVIII",
+			"icon0": "FINAL_FANTASYVIII.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "JumpingFlash",
+			"id": "JUMPINGFLASH",
+			"icon0": "JUMPINGFLASH.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "JumpingFlash2",
+			"id": "JUMPINGFLASH2",
+			"icon0": "JUMPINGFLASH2.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "LegendsOfHeroesTrailsInTheSky",
+			"id": "LEGENDSOFHEROESTRAILSINTHESKY",
+			"icon0": "LEGENDSOFHEROESTRAILSINTHESKY.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "Patapon",
+			"id": "PATAPONNN",
+			"icon0": "PATAPONNN.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "R4RidgeRacer",
+			"id": "R4RIDGERACER",
+			"icon0": "R4RIDGERACER.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "RhapsodyAMusicalAdventure",
+			"id": "RHAPSODYAMUSICALADVENTURE",
+			"icon0": "RHAPSODYAMUSICALADVENTURE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "TacticsOgreLetUsClingTogether",
+			"id": "TACTICSOGRELETUSCLINGTOGETHER",
+			"icon0": "TACTICSOGRELETUSCLINGTOGETHER.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "VagrantStory",
+			"id": "VAGRANTSTORYY",
+			"icon0": "VAGRANTSTORYY.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "APEESCAPE",
+			"id": "APEESCAPEE",
+			"icon0": "APEESCAPEE.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "BreathOfFireIII",
+			"id": "BREATHOFFIREIII",
+			"icon0": "BREATHOFFIREIII.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "CastlevaniaSymphonyOfTheNight",
+			"id": "CASTLEVANIASYMPHONYOFTHENIGHT",
+			"icon0": "CASTLEVANIASYMPHONYOFTHENIGHT.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "ChronoCross",
+			"id": "CHRONOCROSSS",
+			"icon0": "CHRONOCROSSS.png",
+			"version": "1.00"
+		},
+		{
+			"author": "azurefehr",
+			"title": "DisgaeaAfternoonOfDarkness",
+			"id": "DISGAEAAFTERNOONDARKNESS",
+			"icon0": "DISGAEAAFTERNOONDARKNESS.png",
 			"version": "1.00"
 		}
 	]
